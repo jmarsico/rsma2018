@@ -20,7 +20,7 @@ Each week will offer:
 
 1. *Concepts*: an introduction to concepts and considerations surrounding the Internet of things through readings, lectures, and in-class discussion
 
-2. *Skills*: [self-paced labs](http://daraghbyrne.github.io/diotlabs/) will develop students skills in preparing connected products and cover hardware, software, electronics and other lab skills.
+2. *Skills*: [self-paced labs](http://jmarsico.github.io/rsmalabs/) will develop students skills in preparing connected products and cover hardware, software, electronics and other lab skills.
 
 3. *Applied Critique:* Concepts and Skills will be applied in short and focused weekly projects which will then be critically examined through group critique.
 

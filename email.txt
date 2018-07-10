@@ -2,7 +2,7 @@
 
 Hi everyone,
 
-Happy New Year! Hope you all had a restful break.  Ahead of kicking of Designing For the Internet of Things next week, I wanted to introduce some course content and prepare aheads for next week:
+Happy New Year! Hope you all had a restful break.  Ahead of kicking of Reactive Spaces and Media Architecture next week, I wanted to introduce some course content and prepare aheads for next week:
 
 The course site (and syllabus) can be found at: http://jmarsico.github.io/diot2018. You’ll also find this cross-listed on Canvas.
 

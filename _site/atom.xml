@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Designing for the Internet of Things</title>
+ <title>Reactive Spaces and Media Architecture</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
  <updated>2018-01-11T21:52:45-05:00</updated>
@@ -150,7 +150,7 @@
    <updated>2017-01-01T00:00:00-05:00</updated>
    <id>http://localhost:4000/2017/01/01/full-syllabus</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
-	tl;dr: Designing for the Internet of Things, Spring Mini-3 2018, Carnegie Mellon University
+	tl;dr: Reactive Spaces and Media Architecture, Spring Mini-3 2018, Carnegie Mellon University
 &lt;/p&gt;
 
 &lt;table&gt;
@@ -188,7 +188,7 @@
   &lt;tr&gt;
     &lt;td&gt;Lab Content:&lt;/td&gt;
     &lt;td&gt;
-		&lt;a href=&quot;http://daraghbyrne.github.io/diotlabs/&quot;&gt;DIoT Lab Site&lt;/a&gt;
+		&lt;a href=&quot;http://jmarsico.github.io/rsmalabs/&quot;&gt;DIoT Lab Site&lt;/a&gt;
 	&lt;/td&gt;
   &lt;/tr&gt;
 
@@ -260,7 +260,7 @@
     &lt;p&gt;&lt;em&gt;Concepts&lt;/em&gt;: an introduction to concepts and considerations surrounding the Internet of things through readings, lectures, and in-class discussion&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Skills&lt;/em&gt;: &lt;a href=&quot;http://daraghbyrne.github.io/diotlabs/&quot;&gt;self-paced labs&lt;/a&gt; will develop students skills in preparing connected products and cover hardware, software, electronics and other lab skills.&lt;/p&gt;
+    &lt;p&gt;&lt;em&gt;Skills&lt;/em&gt;: &lt;a href=&quot;http://jmarsico.github.io/rsmalabs/&quot;&gt;self-paced labs&lt;/a&gt; will develop students skills in preparing connected products and cover hardware, software, electronics and other lab skills.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;em&gt;Applied Critique:&lt;/em&gt; Concepts and Skills will be applied in short and focused weekly projects which will then be critically examined through group critique.&lt;/p&gt;

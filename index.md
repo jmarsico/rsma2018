@@ -4,7 +4,7 @@ title: About
 ---
 
 
-**Designing for the Internet of Things** <br/>
+**Reactive Spaces and Media Architecture** <br/>
 Spring 2017, Carnegie Mellon University
 
 
@@ -47,7 +47,7 @@ Spring 2017, Carnegie Mellon University
   <tr>
     <td>Lab Content:</td>
     <td>
-		<a href="http://daraghbyrne.github.io/diotlabs/">DIoT Lab Site</a>
+		<a href="http://jmarsico.github.io/rsmalabs/">DIoT Lab Site</a>
 	</td>
   </tr>
 

@@ -20,9 +20,9 @@ _Note:_ There is a [discovery](#planning-your-project-ie-discovery) attached to 
 
 # Overview
 
-We want our objects to be enchanted, magical and to be joyful. This is our goal in designing for the Internet of Things: to make our products desirable and lovable.
+We want our objects to be enchanted, magical and to be joyful. This is our goal in Reactive Spaces and Media Architecture: to make our products desirable and lovable.
 
-There are, however, many stakeholders, actors and needs to be considered in designing for the internet of things. The different needs and value opportunities can potentially conflict with the ideal of making the best product for the end user or, indeed, in placing the best intentions of the end user firmly at heart.
+There are, however, many stakeholders, actors and needs to be considered in Reactive Spaces and Media Architecture. The different needs and value opportunities can potentially conflict with the ideal of making the best product for the end user or, indeed, in placing the best intentions of the end user firmly at heart.
 
 When we design for the Internet of Things, we imagine a utopian scenario where objects seamlessly integrate, empower and enrich our daily experiences and routines, and through playful, subtle interaction enhance our homes, workplaces and cities by imbuing our objects with information, intelligence and awareness.
 
@@ -79,7 +79,7 @@ In addition to being a **desirable, lovable and delightful** internet appliance,
 
 **_Basically, you are designing the cutest toy... chainsaw, but for the Internet of Things._**
 
-Once you have developed a conceptual design, next reflect on the outcome. In creating this unsettling device, what have you learned about designing for the Internet of Things? Use this design exploration to develop a series of general design recommendations for others who might design for the Internet of Things. What might you recommend they avoid and why?
+Once you have developed a conceptual design, next reflect on the outcome. In creating this unsettling device, what have you learned about Reactive Spaces and Media Architecture? Use this design exploration to develop a series of general design recommendations for others who might design for the Internet of Things. What might you recommend they avoid and why?
 
 #### Summary:
 

@@ -31,9 +31,9 @@ Week (Beginning)			| Summary 		| Assignments
 
 Tuesday Jan 16				| Thursday Jan 18
 | :-------------| :------------- |
-General Introduction to the course.		|		[Introduction to Particle.io framework](http://daraghbyrne.github.io/diotlabs/getting-started/the-particle-platform/)
-Introduction to IoT and ‘the Disappearing Computer’		|		[Introduction to basic electronics for IoT](http://daraghbyrne.github.io/diotlabs/getting-started/)
-[In Class Exercise #1: Defining the Internet of Things](../exercises/in-class-1)	|		[Building a first connected circuit](http://daraghbyrne.github.io/diotlabs/1-a-simple-internet-appliance/)
+General Introduction to the course.		|		[Introduction to Particle.io framework](http://jmarsico.github.io/rsmalabs/getting-started/the-particle-platform/)
+Introduction to IoT and ‘the Disappearing Computer’		|		[Introduction to basic electronics for IoT](http://jmarsico.github.io/rsmalabs/getting-started/)
+[In Class Exercise #1: Defining the Internet of Things](../exercises/in-class-1)	|		[Building a first connected circuit](http://jmarsico.github.io/rsmalabs/1-a-simple-internet-appliance/)
 
 ##### Assignments Given
 
