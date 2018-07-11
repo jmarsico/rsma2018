@@ -1,6 +1,6 @@
 ---
 layout: subpage-detailed
-title: Creative Projects
+title: Projects
 ---
 
 <p class="message">
@@ -8,7 +8,7 @@ title: Creative Projects
 </p>
 
 
-## Creative Projects
+## Projects
 
 As part of this course, you're asked to self-select an idea for a IoT prototype that you're excited to make real. Once we've covered the basics, this course will give you the opportuntity to make your own Internet-enabled prototypes. You'll have a four weekly creative projects (one independent, three collaborative) and one collaborative final project. 
 

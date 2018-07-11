@@ -44,7 +44,7 @@ title: Full Syllabus
   <tr>
     <td>Lab Content:</td>
     <td>
-		<a href="http://jmarsico.github.io/rsmalabs/">DIoT Lab Site</a>
+		<a href="http://jmarsico.github.io/rsmalabs/">RSMA Lab Site</a>
 	</td>
   </tr>
 

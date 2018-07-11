@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: "Mini Exercise: Product Hunt"
+title: "Precedent Research"
 ---
 
 <p class="message">

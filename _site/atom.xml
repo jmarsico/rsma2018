@@ -188,7 +188,7 @@
   &lt;tr&gt;
     &lt;td&gt;Lab Content:&lt;/td&gt;
     &lt;td&gt;
-		&lt;a href=&quot;http://jmarsico.github.io/rsmalabs/&quot;&gt;DIoT Lab Site&lt;/a&gt;
+		&lt;a href=&quot;http://jmarsico.github.io/rsmalabs/&quot;&gt;RSMA Lab Site&lt;/a&gt;
 	&lt;/td&gt;
   &lt;/tr&gt;
 
@@ -676,7 +676,7 @@
 
 &lt;p&gt;The course is self-motivated, collaborative and interdisciplinary. We’re going to generate a lot of ideas and run into challenges (technical and otherwise) that will be important to capture, share and discuss.&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&quot;http://diot2018.slack.com&quot;&gt;course slack&lt;/a&gt; is a really important component of this and has been set up to give everyone involved have a way to easily connect and communicate. We’re hoping it’s going to be a great resource for everyone in the class, but we also want to make sure it’s friendly and respectful at all times and make sure folks feel comfortable and supported. With those goals in mind we’ve developed a Code of Conduct for everyone using this Slack.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;http://rsma2018.slack.com&quot;&gt;course slack&lt;/a&gt; is a really important component of this and has been set up to give everyone involved have a way to easily connect and communicate. We’re hoping it’s going to be a great resource for everyone in the class, but we also want to make sure it’s friendly and respectful at all times and make sure folks feel comfortable and supported. With those goals in mind we’ve developed a Code of Conduct for everyone using this Slack.&lt;/p&gt;
 
 &lt;h4 id=&quot;suggested-uses&quot;&gt;Suggested uses&lt;/h4&gt;
 
@@ -703,19 +703,19 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://diot2018.slack.com/messages/discoveries/&quot;&gt;#discoveries&lt;/a&gt; - a channel to quickly share small-scale discoveries you’ve made like code snippets or libraries&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://rsma2018.slack.com/messages/discoveries/&quot;&gt;#discoveries&lt;/a&gt; - a channel to quickly share small-scale discoveries you’ve made like code snippets or libraries&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://diot2018.slack.com/messages/readings/&quot;&gt;#readings&lt;/a&gt; - want to share thoughts or questions about the readings or perhaps add another to the mix?&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://rsma2018.slack.com/messages/readings/&quot;&gt;#readings&lt;/a&gt; - want to share thoughts or questions about the readings or perhaps add another to the mix?&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://diot2018.slack.com/messages/projects/&quot;&gt;#projects&lt;/a&gt; - discuss projects and assignments for the course.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://rsma2018.slack.com/messages/projects/&quot;&gt;#projects&lt;/a&gt; - discuss projects and assignments for the course.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://diot2018.slack.com/messages/share/&quot;&gt;#share&lt;/a&gt; - share links, papers or articles you find that might be interesting to the group.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://rsma2018.slack.com/messages/share/&quot;&gt;#share&lt;/a&gt; - share links, papers or articles you find that might be interesting to the group.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://diot2018.slack.com/messages/help/&quot;&gt;#help&lt;/a&gt; - want to find some help? brainstorm a problem? find a collaborator? ask the group. Or if you’ve got open questions which need to be addressed?&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://rsma2018.slack.com/messages/help/&quot;&gt;#help&lt;/a&gt; - want to find some help? brainstorm a problem? find a collaborator? ask the group. Or if you’ve got open questions which need to be addressed?&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -727,7 +727,7 @@
 
 &lt;p&gt;&lt;strong&gt;@everyone&lt;/strong&gt;, &lt;strong&gt;@channel&lt;/strong&gt;, or &lt;strong&gt;@group&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;We have the &lt;a href=&quot;http://diot2018.slack.com/messages/general/&quot;&gt;#general&lt;/a&gt; channel if you want to share something big with the whole course community. Team Owners and Admins can distribute notifications via @everyone, @channel, or @group. In any case, be respectful of the many people who will receive notifications (often to mobile devices), and especially if it’s late at night.&lt;/p&gt;
+&lt;p&gt;We have the &lt;a href=&quot;http://rsma2018.slack.com/messages/general/&quot;&gt;#general&lt;/a&gt; channel if you want to share something big with the whole course community. Team Owners and Admins can distribute notifications via @everyone, @channel, or @group. In any case, be respectful of the many people who will receive notifications (often to mobile devices), and especially if it’s late at night.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Communicating through Slack&lt;/strong&gt; (NOTE:  Adapted from https://docs.puppetlabs.com/community/community_guidelines.html )&lt;/p&gt;
 

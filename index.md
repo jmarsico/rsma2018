@@ -11,11 +11,11 @@ Spring 2017, Carnegie Mellon University
 <table>
   <tr>
     <td>Course Prefix & Number</td>
-    <td>49-313 (12 units)</td>
+    <td>49-313 (9 units)</td>
   </tr>
   <tr>
     <td>Meeting times</td>
-    <td>T/Th 6:30PM-7:50PM</td>
+    <td>M/W 6:30PM-7:50PM</td>
   </tr>
   <tr>
     <td>Location</td>
@@ -23,31 +23,26 @@ Spring 2017, Carnegie Mellon University
   </tr>
 
   <tr>
-    <td>Instructors</td>
+    <td>Instructor</td>
     <td>
-		<a href="mailto:jmarsico@gmail.com">Jakob Marsico</a> and <a href="mailto:dph5087@gmail.com">David Hoysan</a>
+		<a href="mailto:jmarsico@gmail.com">Jakob Marsico</a>
 	</td>
   </tr>
 
   <tr>
     <td>Teaching Assistant</td>
-    <td><a href="mailto:rrbhatia@cmu.edu ">Rajeev Bhatia</a></td>
+    <td><a href="mailto:XXXXX@cmu.edu ">XXXX</a></td>
   </tr>
   <tr>
     <td>Office Hours:</td>
     <td>
-		Marsico: Friday, 10:00AM-11:30AM, Hunt A10.
-		<br/>
-		Hoysan: Tuesday, 5:00PM - 6:30PM, Hunt A10.
-    <br/>
-    Bhatia: Thursday, 5:00PM - 6:30PM, Hunt A10.
-
+		Marsico: Tuesday, 7:50pm - 9:00pm, Hunt A10.
     </td>
   </tr>
   <tr>
     <td>Lab Content:</td>
     <td>
-		<a href="http://jmarsico.github.io/rsmalabs/">DIoT Lab Site</a>
+		<a href="http://jmarsico.github.io/rsmalabs/">RSMA Lab Site</a>
 	</td>
   </tr>
 
@@ -55,7 +50,8 @@ Spring 2017, Carnegie Mellon University
 
 ## Course Description
 
-> Thermostats, locks, power sockets, and lights are all being imbued with ‘smarts’ making them increasingly aware and responsive to their environment and users. This course will chart the emergence of the now ‘connected world’ to explore the possibilities for future products and connected spaces with the Internet of Things. This introductory, hands-on course invites students to creating connected products without any knowledge of programming, electronics or systems. Students will be introduced to interactive connected technologies through a series of hands on exercises, collaborative projects, in-depth discussions, and instructor led tutorials. Topics explored will include awareness, real-time sensing and communication, embedded intelligence, and designing experiences for the internet of things.  By the end of this course, students will be familiar with the core skills, the considerations involved and design process required to build a connected system. Students will also apply this learning in collaborative groups to realize a prototype connected device.
+> How can embedded computation change the way we experience our surroundings? What is the value of creating dynamic spaces? This class will focus on the design and prototyping of reactive spaces. Over the course of several small projects and one large final project, students will learn where, when and how to embed computationally-driven experiences into the built environment. Students will be required to design, render and build experiences and interactions for specific locations and with specific intentions. By the end of the course students should expect to know how to use sensor and API data to manipulate an environment through light, sound and motion output. Previous experience with programming, electronics or fabrication is encouraged, but not required. However, students are expected to learn these skills on their own with minimal in-class instruction.
+
 
 ## Course Content
 
@@ -71,30 +67,16 @@ Spring 2017, Carnegie Mellon University
 
 Week (Beginning)			| Summary
 | :------------- | :----------- |
-1 (Jan 16)  			| [Introduction to IoT and Connected Products]({{site.baseurl}}/schedule/#week1)
-2 (Jan 23)  			| [Design Approaches for Networked Devices]({{site.baseurl}}/schedule/#week2)
-3 (Jan 30)  			| [Design Approaches for Networked Devices]({{site.baseurl}}/schedule/#week3)
-4 (Feb 6)  			  | [Exploring Ambience and Tangible Data]({{site.baseurl}}/schedule/#week4)
-5 (Feb 13)  			| [Exploring Ambience and Tangible Data]({{site.baseurl}}/schedule/#week5)
-6 (Feb 20)  			| [Envisioning Connectivity for Domestic Settings]({{site.baseurl}}/schedule/#week6)
-7 (Feb 27)  			| [Envisioning Connectivity for Domestic Settings]({{site.baseurl}}/schedule/#week7)
-8 (Mar 6)  			  | [Considering Connectivity]({{site.baseurl}}/schedule/#week8)
-9 (Mar 13)  			| Spring Break
-10 (Mar 20)  			| [Considering Connectivity]({{site.baseurl}}/schedule/#week10)
-11 (Mar 27)  			| [Looking to the Future]({{site.baseurl}}/schedule/#week11)
-12 (Apr 3)  			| [IoT Ecosystems]({{site.baseurl}}/schedule/#week12)
-13 (Apr 10)  			| [IoT Ecosystems]({{site.baseurl}}/schedule/#week13)
-14 (Apr 17)  			| [IoT Ecosystems]({{site.baseurl}}/schedule/#week14)
-15 (Apr 24)  			| [IoT Ecosystems]({{site.baseurl}}/schedule/#week15)
-16 (May 1)  			| [Final Presentations]({{site.baseurl}}/schedule/#week16)
+1 (Jan 16)  			| [Introduction]({{site.baseurl}}/schedule/#week1)
+
 
 ## Logistics
 
-1. All students taking the course must complete the [online skills survey](https://goo.gl/forms/e0dQKTzOA5buzAGr2)
+1. We use [Slack]({{ site.slack }}) as our primary communication channel. We use it to post precedent research, ask technical questions, collaborate on group projects. It is the preferred method for contacting the instructor and TA as well. Please [Download](https://slack.com/downloads) the app for phone and computer if you don't already have it.
 
-3. Our [Slack community]({{ site.slack }}) is the main hub for course updates, discussion and content. Read more about the [slack and its role in the course](/tech/collaboration/2015/11/13/using-slack/).  Use slack communications with the instructors and TA's too (i.e. don't email us!). __Highly recommended__: [Download](https://slack.com/downloads) the Slack client for your smartphone or desktop and _enable notifications_!
+2. We use the [IDeATe Gallery]({{site.gallery}}) to post project documentation. Clear Documentation is a 
 
-2. Creative projects should be documented on the [Gallery]({{site.gallery}}). This site contains [a guide]({{site.base_url}}/tech/formats/update/2015/11/11/the-gallery/) to using the gallery. These are due _before_ Thursday's class.
+Creative projects should be documented on the [Gallery]({{site.gallery}}). This site contains [a guide]({{site.base_url}}/tech/formats/update/2015/11/11/the-gallery/) to using the gallery. These are due _before_ Thursday's class.
 
 2. [Weekly readings]({{site.base_url}}/readings) should be completed by Friday evening. Summaries should be completed on canvas.
 
