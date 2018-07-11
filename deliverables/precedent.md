@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Discoveries
+title: Precedent
 ---
 
 <p class="message">

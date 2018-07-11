@@ -74,7 +74,7 @@ Week (Beginning)			| Summary
 
 1. We use [Slack]({{ site.slack }}) as our primary communication channel. We use it to post precedent research, ask technical questions, collaborate on group projects. It is the preferred method for contacting the instructor and TA as well. Please [Download](https://slack.com/downloads) the app for phone and computer if you don't already have it.
 
-2. We use the [IDeATe Gallery]({{site.gallery}}) to post project documentation. Clear Documentation is a 
+2. We use the [IDeATe Gallery]({{site.gallery}}) to post project documentation. Beautiful, well-articulated and informative documentation is a central pillar of this course. Guidelines and expectactions for project documentation can be found [here](({{site.base_url}}/tech/formats/update/2015/11/11/the-gallery/))
 
 Creative projects should be documented on the [Gallery]({{site.gallery}}). This site contains [a guide]({{site.base_url}}/tech/formats/update/2015/11/11/the-gallery/) to using the gallery. These are due _before_ Thursday's class.
 
