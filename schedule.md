@@ -5,64 +5,46 @@ title: Schedule
 
 Week (Beginning)			| Summary 		| Assignments
 | :------------- | :----------- | :----------- |
-1 (Jan 16)  			| __[Introduction to IoT and Connected Products](#week1)__ 		| [Mini Assignment - Product Hunt](../assignments/product-hunt)<br/> [Readings #1](../readings/#reading1)
-2 (Jan 23)  			| __[Design Approaches for Networked Devices](#week2)__	       | [Creative Assignment I](../assignments/creative-assignment-1) <br/>  [Readings #2](../readings/#reading2) DUE
-3 (Jan 30)  			| __[Design Approaches for Networked Devices](#week3)__	     | [Creative Assignment I](../assignments/creative-assignment-1) <br/>  [Readings #2](../readings/#reading2) DUE
-4 (Feb 6)  			  | __[Exploring Ambience and Tangible Data](#week4)__				| [Creative Assignment II](../assignments/creative-assignment-2) <br/>  [Readings #3](../readings/#reading3)
-5 (Feb 13)  			| __[Exploring Ambience and Tangible Data](#week5)__				| [Creative Assignment II](../assignments/creative-assignment-2) <br/>  [Readings #3](../readings/#reading3) DUE
-6 (Feb 20)  			| __[Envisioning Connectivity for Domestic Settings](#week6)__ 		| [Creative Assignment III, Discovery](../assignments/creative-assignment-3) <br/>  [Readings #4](../readings/#reading4)
-7 (Feb 27)  			| __[Envisioning Connectivity for Domestic Settings](#week7)__ 		| [Creative Assignment III](../assignments/creative-assignment-3) <br/>  [Readings #4](../readings/#reading4) DUE
-8 (Mar 6)  				| __[Considering Connectivity](#week8)__							| [Creative Assignment IV](../assignments/creative-assignment-4) <br/>  [Readings #5](../readings/#reading5)
-9 (Mar 13)  			| __[Spring Break](#week9)__							| Relax <br/>  No readings due
-10 (Mar 20)  			| __[Considering Connectivity](#week10)__							| [Creative Assignment IV](../assignments/creative-assignment-4) <br/>  [Readings #5](../readings/#reading5) DUE
-11 (Mar 27)  			| __[Looking to the Future](#week11)__ 							| [Final Assignment](../assignments/final-assignment/): <br/>  Final Assignment Begins <br/>  [Readings #6](../readings/#reading6)
-12 (Apr 3)  			| __[IoT Ecosystems](#week12)__ 									| [Final Assignment](../assignments/final-assignment/): <br/> Familiarize <br/>  [Readings #6](../readings/#reading6) DUE
-13 (Apr 10)  			| __[IoT Ecosystems](#week13)__ 									| [Final Assignment](../assignments/final-assignment/): <br/> Defamiliarize
-14 (Apr 17)  			| __[IoT Ecosystems](#week14)__ 									| [Final Asignment](../assignments/final-assignment/): <br/> Vision
-15 (Apr 24)  			| __[IoT Ecosystems](#week15)__ 									| [Final Assignment](../assignments/final-assignment/): <br/> 1st Cut Prototypes
-16 (May 1)  			| __[Final Presentations](#week16)__								| [Final Assignment](../assignments/final-assignment/): Presentation, Demonstration
+1 (Aug 27)  			| __[Introduction to IoT and Connected Products](#week1)__ 		| [Mini Assignment - Product Hunt](../assignments/product-hunt)<br/> [Readings #1](../readings/#reading1)
+
 
 
 ## Detailed Schedule
 
-<a name="reading1"></a>
+<a name="week1"></a>
 
-### Week 1: Introduction to IoT and Connected Products
+### Week 1: Introduction to Media Architecture
 
-Tuesday Jan 16				| Thursday Jan 18
+Monday Aug 27				| Wednesday Aug 29
 | :-------------| :------------- |
-General Introduction to the course.		|		[Introduction to Particle.io framework](http://jmarsico.github.io/rsmalabs/getting-started/the-particle-platform/)
-Introduction to IoT and ‘the Disappearing Computer’		|		[Introduction to basic electronics for IoT](http://jmarsico.github.io/rsmalabs/getting-started/)
-[In Class Exercise #1: Defining the Internet of Things](../exercises/in-class-1)	|		[Building a first connected circuit](http://jmarsico.github.io/rsmalabs/1-a-simple-internet-appliance/)
+General Introduction to the course.		|		[Introduction to TouchDesigner framework](http://jmarsico.github.io/rsmalabs//)
+Introduction to Media Architecture		|		[Introduction to Addressable LEDs with Advatek](http://jmarsico.github.io//)
+[In Class Exercise #1: Data-Driven Walkway](../exercises/in-class-1)	|		[Driving LEDs from TouchDesigner](http://jmarsico.github.io/rsmalabs//)
 
 ##### Assignments Given
 
-- Discovery #1 - [Product Hunt](../assignments/product-hunt)  Due Jan 18
-- Readings #1 - [Introduction to the IoT and Connected Products ](../readings/#reading1)  Due Jan 23
+- Discovery #1 - [Precedent Research](../assignments/precedent)  Due Sep 3
+- Readings #1 - [Peripheral Displays ](../readings/#reading1)  Due Sep 5
 
 <a name="week2"></a>
 
-### Week 2: Designing for Networked Devices
+### Week 2: Peripheral Displays
 
-Tuesday Jan 23							| Thursday Jan 25
+Monday Sep 3							| Wednesday Sep 5
 | :-------------| :------------- |
-Discussing Case Studies	and [Product Hunt](../assignments/product-hunt)				| Programming for IoT Continued
-[In Class Exercise 2: Open Source Alternatives](../exercises/in-class-2)					| Building a basic connected sensor platform
-Introduction to [Creative Assignment 1](../assignments/creative-assignment-1)	| Prototyping [Creative Assignment 1](../assignments/creative-assignment-1)
+
 
 ##### Assignments Given
 
-- Discovery #2 - [Starting points](../assignments/creative-assignment-1/#planning-your-project-ie-discovery)  Due Jan 25
-- Creative Assignment #1 - [Home Hack](../assignments/creative-assignment-1)  Proposal Due Jan 25, Project Due Feb 6
-- Readings #2 - [Understanding Ambience](../readings/#reading2)  Due Jan 30
+
 
 <a name="week3"></a>
 
-### Week 3: Designing for Networked Devices
+### Week 3: Peripheral Displays
 
-Tuesday Jan 30							| Thursday Feb 1
+Monday Sep 10							| Wednesday Sep 12
 | :-------------| :------------- |
-[Creative Assignment 1](../assignments/creative-assignment-1)	Work Day | Prototyping [Creative Assignment 1](../assignments/creative-assignment-1)
+[Project 1](../assignments/project-1)	Work Day | Prototyping [Project 1](../assignments/project-1)
 
 
 <a name="week4"></a>

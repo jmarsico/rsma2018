@@ -76,7 +76,7 @@ Week (Beginning)			| Summary
 
 2. We use the [IDeATe Gallery]({{site.gallery}}) to post project documentation. Beautiful, well-articulated and informative documentation is a central pillar of this course. Guidelines and expectactions for project documentation can be found [here](({{site.base_url}}/tech/formats/update/2015/11/11/the-gallery/))
 
-Creative projects should be documented on the [Gallery]({{site.gallery}}). This site contains [a guide]({{site.base_url}}/tech/formats/update/2015/11/11/the-gallery/) to using the gallery. These are due _before_ Thursday's class.
+Creative projects should be documented on the [Gallery]({{site.gallery}}). This site contains [a guide]({{site.base_url}}/deliverables/documentation/) to using the gallery. These are due _before_ Thursday's class.
 
 2. [Weekly readings]({{site.base_url}}/readings) should be completed by Friday evening. Summaries should be completed on canvas.
 
