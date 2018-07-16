@@ -17,9 +17,9 @@ relative_permalinks: false
 # Setup
 title:            Reactive Spaces and Media Architecture
 tagline:          'CMU - Fall 2018'
-description:      'A hands-on introductory course exploring the Internet of Things and connected product experiences.'
---url:              "http://jmarsico.github.io/"
---baseurl:          "http://jmarsico.github.io/"
+description:      'Project-based course for exploring large scale dynamic media in the built environment.'
+--url:              "http://jmarsico.github.io/rsma2018"
+--baseurl:          "http://jmarsico.github.io/rsma2018"
 baseurl:          "/rsma2018"
 
 author:

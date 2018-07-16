@@ -1,6 +1,6 @@
 ---
 layout: subpage-detailed
-title: Documentation
+title: documentation
 ---
 
 <p class="message">

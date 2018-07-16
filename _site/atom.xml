@@ -4,21 +4,21 @@
  <title>Reactive Spaces and Media Architecture</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-01-11T21:52:45-05:00</updated>
+ <updated>2018-07-12T09:29:30-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Daragh Byrne</name>
+   <name>Jakob Marsico</name>
    <email></email>
  </author>
 
  
  <entry>
    <title>Grading, Feedback and Policies</title>
-   <link href="http://localhost:4000/2017/01/02/grading/"/>
-   <updated>2017-01-02T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2017/01/02/grading</id>
+   <link href="http://localhost:4000/2018/07/12/grading/"/>
+   <updated>2018-07-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2018/07/12/grading</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
-	tl;dr: Do interesting work and you'll be fine. Make sure it's submitted on time. Grading and feedback is focused on creative projects. There will be some opportunities for extra credit. 
+	tl;dr: Do interesting work and you'll be fine. Make sure it's submitted on time. Grading and feedback is focused on creative projects. There will be some opportunities for extra credit.
 &lt;/p&gt;
 
 &lt;p&gt;The course is focused on exploring distance learning by making interesting creative work. To get a good grade you’ll need to:&lt;/p&gt;
@@ -50,10 +50,10 @@
 
 &lt;ul&gt;
   &lt;li&gt;10% - &lt;a href=&quot;#participation&quot;&gt;Attendance &amp;amp; Participation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;10% - 5 x &lt;a href=&quot;/deliverables/discoveries/#grading&quot;&gt;Discoveries&lt;/a&gt; (2% per discovery)&lt;/li&gt;
-  &lt;li&gt;20% - &lt;a href=&quot;/deliverables/reading-reflections/#grading&quot;&gt;Readings, Summaries and Reflections&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;20% - Weekly &lt;a href=&quot;/deliverables/creative-projects/#grading&quot;&gt;Creative Projects&lt;/a&gt; (4 x 5%)&lt;/li&gt;
-  &lt;li&gt;40% - &lt;a href=&quot;/deliverables/final-project/#grading&quot;&gt;Final Project&lt;/a&gt; incl. &lt;a href=&quot;/deliverables/presentation-of-outcomes/#grading&quot;&gt;presentation and demonstration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;10% - 5 x &lt;a href=&quot;/rsma2018/deliverables/discoveries/#grading&quot;&gt;Discoveries&lt;/a&gt; (2% per discovery)&lt;/li&gt;
+  &lt;li&gt;20% - &lt;a href=&quot;/rsma2018/deliverables/reading-reflections/#grading&quot;&gt;Readings, Summaries and Reflections&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;20% - Weekly &lt;a href=&quot;/rsma2018/deliverables/creative-projects/#grading&quot;&gt;Creative Projects&lt;/a&gt; (4 x 5%)&lt;/li&gt;
+  &lt;li&gt;40% - &lt;a href=&quot;/rsma2018/deliverables/final-project/#grading&quot;&gt;Final Project&lt;/a&gt; incl. &lt;a href=&quot;/rsma2018/deliverables/presentation-of-outcomes/#grading&quot;&gt;presentation and demonstration&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Note: this is subject to change. Follow the links to find out specific information on each graded component with the exception of participation which is discussed below.&lt;/p&gt;
@@ -146,17 +146,17 @@
  
  <entry>
    <title>Full Syllabus</title>
-   <link href="http://localhost:4000/2017/01/01/full-syllabus/"/>
-   <updated>2017-01-01T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2017/01/01/full-syllabus</id>
+   <link href="http://localhost:4000/2018/07/12/full-syllabus/"/>
+   <updated>2018-07-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2018/07/12/full-syllabus</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
-	tl;dr: Reactive Spaces and Media Architecture, Spring Mini-3 2018, Carnegie Mellon University
+	tl;dr: Reactive Spaces and Media Architecture, Spring 2018, Carnegie Mellon University
 &lt;/p&gt;
 
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;Course Prefix &amp;amp; Number&lt;/td&gt;
-    &lt;td&gt;49-313 (12 units)&lt;/td&gt;
+    &lt;td&gt;48-734 (9 units)&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;Meeting times&lt;/td&gt;
@@ -168,22 +168,23 @@
   &lt;/tr&gt;
 
   &lt;tr&gt;
-    &lt;td&gt;Instructor&lt;/td&gt;
+    &lt;td&gt;Instructors&lt;/td&gt;
     &lt;td&gt;
-		&lt;a href=&quot;http://daraghbyrne.me&quot;&gt;Daragh Byrne&lt;/a&gt;
+		&lt;a href=&quot;mailto:jmarsico@gmail.com&quot;&gt;Jakob Marsico&lt;/a&gt; and &lt;a href=&quot;mailto:dph5087@gmail.com &quot;&gt;David Hoysan&lt;/a&gt;
 	&lt;/td&gt;
   &lt;/tr&gt;
-  
+
   &lt;tr&gt;
     &lt;td&gt;Teaching Assistant&lt;/td&gt;
-    &lt;td&gt;&lt;a href=&quot;mailto:randaya@andrew.cmu.edu&quot;&gt;Roberto Andaya&lt;/a&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;mailto:TBD&quot;&gt;TBD&lt;/a&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;Office Hours:&lt;/td&gt;
     &lt;td&gt;
-		Byrne: Friday, 15.00PM-16.30PM, III 103.
+		Marsico: Friday 10:00AM-11:30AM, Hunt A10 |
+		Hoysan: Wednesday 5:00PM - 6:30PM
 		&lt;br /&gt;
-		Andaya: TBC&lt;/td&gt;
+		TA: TBC&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;Lab Content:&lt;/td&gt;
@@ -292,11 +293,11 @@
 
 &lt;h2 id=&quot;grading&quot;&gt;Grading&lt;/h2&gt;
 
-&lt;p&gt;To facilitate marking all students are expected to prepare project pages on the IDeATe Gallery which document the assigned projects and where regular assignments are posted (see &lt;a href=&quot;http://integratedinnovation.xsead.cmu.edu&quot;&gt;http://integratedinnovation.xsead.cmu.edu&lt;/a&gt;) All work must be submitted or presented by the deadline. &lt;strong&gt;Late work will not be accepted.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To facilitate marking all students are expected to prepare project pages on the IDeATe Gallery which document the assigned projects and where regular assignments are posted (see &lt;a href=&quot;http://ideate.xsead.cmu.edu&quot;&gt;http://ideate.xsead.cmu.edu&lt;/a&gt;) All work must be submitted or presented by the deadline. &lt;strong&gt;Late work will not be accepted.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;This course will assign a mixture of independent and group based projects. For independent projects, all work submitted must represent a distinct product by that individual and may not be produced in partnership with any peer within the class. Group projects allow for collaboration but expect that all members contribute to the final work equally. Work submitted for assessment in one class may not be submitted in full or in part for assessment in a second class.&lt;/p&gt;
 
-&lt;p&gt;For more information, on grading, and for details on grading policies, please consult the &lt;a href=&quot;/2017/01/02/grading/&quot;&gt;Grading, Feedback and Policies&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;For more information, on grading, and for details on grading policies, please consult the &lt;a href=&quot;/rsma2018/2017/01/02/grading/&quot;&gt;Grading, Feedback and Policies&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;h2 id=&quot;process-documentation&quot;&gt;Process Documentation&lt;/h2&gt;
 
@@ -343,15 +344,14 @@
 &lt;p&gt;Academic Integrity is expected at all time. Carnegie Mellon has a established as well-defined policy on this subject which can be found at: &lt;a href=&quot;http://www.cmu.edu/policies/documents/Academic%20Integrity.htm&quot;&gt;http://www.cmu.edu/policies/documents/Academic%20Integrity.htm&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It is the responsibility of the student to verse themselves with these policies. All necessary and appropriate sanctions will be issued to all parties involved with plagiarizing any and all course work. Plagiarism and any other form of academic dishonesty that is in violation with these policies will not be tolerated.&lt;/p&gt;
-
 </content>
  </entry>
  
  <entry>
    <title>Absenses and Attendance.</title>
-   <link href="http://localhost:4000/2016/08/22/attendance/"/>
-   <updated>2016-08-22T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2016/08/22/attendance</id>
+   <link href="http://localhost:4000/2018/07/12/attendance/"/>
+   <updated>2018-07-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2018/07/12/attendance</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
 	tl;dr: It's a course that relies on peer-learning. That means you being in class is really important. Being absent will effect your grade. 
 &lt;/p&gt;
@@ -391,251 +391,6 @@
  </entry>
  
  <entry>
-   <title>Preparing Documentation</title>
-   <link href="http://localhost:4000/2016/08/12/preparing-documentation/"/>
-   <updated>2016-08-12T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2016/08/12/preparing-documentation</id>
-   <content type="html">&lt;p class=&quot;message&quot;&gt;
-	tl;dr: A guide to preparing high quality project documentation. 
-&lt;/p&gt;
-
-&lt;p&gt;This is designed as a quick guide to thinking about how to document your creative projects. It’s by no means an exhaustive&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-documentation&quot;&gt;What is documentation?&lt;/h2&gt;
-
-&lt;p&gt;Simply put, documentation is the representation of your creative work through multimedia.&lt;/p&gt;
-
-&lt;p&gt;It can take many forms.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It could be a really well produced and edited video&lt;/li&gt;
-  &lt;li&gt;It could be a webpage.&lt;/li&gt;
-  &lt;li&gt;It could be a slidedeck&lt;/li&gt;
-  &lt;li&gt;It could be an oral presentation&lt;/li&gt;
-  &lt;li&gt;It could be a written narrative&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Most often, it’s an online description of what you made and how you made it. It normally has a mix of text, images, video and audio as needed to best illustrate your project and ideas.&lt;/p&gt;
-
-&lt;h2 id=&quot;purpose-of-documentation&quot;&gt;Purpose of documentation&lt;/h2&gt;
-
-&lt;p&gt;Why do we ask you to document your work and your creative projects? For a few reasons:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It helps make your thinking visible;&lt;/li&gt;
-  &lt;li&gt;It helps you practice communicating your ideas to other people;&lt;/li&gt;
-  &lt;li&gt;It helps you reflect on the outcome by thinking through how it’s presented;&lt;/li&gt;
-  &lt;li&gt;It helps support critique - a shared reflection and review of projects;&lt;/li&gt;
-  &lt;li&gt;It helps with evaluation, especially for team/collaborative projects;&lt;/li&gt;
-  &lt;li&gt;For team projects, it show who has contributed by showcasing a record of how the project was assembled, the process,&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These are just a few of the reasons we ask you to document your work.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-pieces-do-we-care-about&quot;&gt;What pieces do we care about?&lt;/h2&gt;
-
-&lt;p&gt;Building documentation for a course project is a little different from sharing it with outside audiences. When you share with external folks, most often you’ll want to showcase the outcome - &lt;em&gt;the PRODUCT&lt;/em&gt;. When you’re documenting within the context of a course, we often care just as much about the way you made it - &lt;em&gt;the PROCESS&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you’re building your documentation you’ll need to balance the two. Essentially, we’re asking you to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;create a good representation of the work you produced; and&lt;/li&gt;
-  &lt;li&gt;reflect on how you made it.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;When you build your documentation, here’s the things we often want to see:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What did you make and why? (&lt;strong&gt;this one is key&lt;/strong&gt;);&lt;/li&gt;
-  &lt;li&gt;Did you think deeply about the why in particular!&lt;/li&gt;
-  &lt;li&gt;How did you make it? Have you incorporated some traces of your process.&lt;/li&gt;
-  &lt;li&gt;Have you made your learning and thinking visible through the content you’ve included&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You should put a big emphasis on two things:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Clear communication of &lt;em&gt;what&lt;/em&gt; was made; and&lt;/li&gt;
-  &lt;li&gt;Clear communication of &lt;em&gt;why and how&lt;/em&gt; it was made.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-do-i-showcase-my-process&quot;&gt;How do I showcase my process?&lt;/h2&gt;
-
-&lt;p&gt;The best documentation talks about how the project was made and how it evolved throughout it’s development. To help with this, we recommend you think about the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Notebooks&lt;/strong&gt;: The best resource for good process documentation is a journal. Get in the habit of keeping notes, sketches, ideas, and research a notebook. Then when it’s time to prepare your project’s documentation, you can quickly review and synthesize your process. Including photos of key sections of your notebook is a great way to quickly summarise your process!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Precedents&lt;/strong&gt;: Almost every project is informed by something else. It might be a theory, an image, someone else’s work, an idea, source code, etc. Typically, at the start of a project you’ll gather sources of inspiration. Make sure you capture these and acknowledge them later. Not only is it good practice to give a hat-tip to other creators, but it tells your instructors what ideas you drew on. Re-use and hacking is encouraged, but if it’s not acknowledged it looks like plagarism. Remember to be clear about what your contribution is; demonstrate how you add, extend or advance over these sources.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Capture everything&lt;/strong&gt;: When you’re building your project, you may not know what the key moments are until it’s completed. This is why it’s important to capture as much as possible while it’s happening. Document iterations and variations e.g. taking a screen capture of a design variation. Keep a camera handy and take photos during meetings of sketches or whiteboarding. When working digitally, create a project folder and keep everything in one place. Archive substantive iterations of designs. This makes sure you have the content to create your process documentation later.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Reflect&lt;/strong&gt;: When you come to the end of the project, set aside time to review your project’s process. Review design decisions and think about how you got from the original idea to the endpoint. At this point, you’re beginning to filter what you might reveal in your documentation. You’ll find it helpful to sketch out a diagram of your workflow and process. Then use this as a guide of what to include in your final documentation.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Synthesize&lt;/strong&gt;: Don’t throw everything in! No one needs to see every single element of your process. Good documentation relies on you being thoughtful about what you include, not exhaustive. &lt;em&gt;How can you tell us the most about what you did with the least about of content?&lt;/em&gt; Set hard limits on how much content you include and stick to it! This constraint will force you to be really considered and critical about your process.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Learning&lt;/strong&gt;: The most valuable things you can include in your process documentation are the things you learned. Find the best failures. These will most likely highlight something really instructive. &lt;em&gt;Why did you fail and what did you do to fix it?&lt;/em&gt; Next, think about advice or lessons learned. &lt;em&gt;What would you tell someone else who wanted to do something similar?&lt;/em&gt; How would you do it better next time? Is there a principle you could teach someone else because of this exploration?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;preparing-great-documentation&quot;&gt;Preparing great documentation&lt;/h2&gt;
-
-&lt;p&gt;In conversation with faculty, we asked three things:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What makes great documentation?;&lt;/li&gt;
-  &lt;li&gt;What are examples of excellent project documentation?;  and&lt;/li&gt;
-  &lt;li&gt;What should a student focus on in their documentation?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Below are some of the responses.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-makes-great-documentation&quot;&gt;What makes great documentation:&lt;/h3&gt;
-
-&lt;p&gt;Everyone agreed it should be to the point: clear, consise and simple language; short focused responses, brief video (no more than 2 minutes) and limited well-chosen images). While it should be short, it should also be rich and informative. &lt;strong&gt;&lt;em&gt;Good documentation communicates the most amount of information in the least amount of content.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Sample Response 1:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;In short: Photography, Video, Writing&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;For the first two, this means intentional lighting and thoughtful placement. For video, good documentation also means skillful editing, narration (voice-over or text) and some narrative, even if it’s simple.&lt;/p&gt;
-
-&lt;p&gt;For writing, students need to be capable of expressing the idea behind their project and why their project matters.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Sample Response 2:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Reflective, analytic commentary.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Complete technical documentation: all code, CAD files, etc.  This is partly about discipline, partly about having the means to make detailed technical critique.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Well-chosen images. Images should support the development story, not be a raw dump.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Clear, concise video. This is often the only durable and accessible result after projects are taken apart.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;examples-of-excellent-project-documentation&quot;&gt;Examples of excellent project documentation:&lt;/h3&gt;
-
-&lt;p&gt;Below are some examples of project documentation that you can draw on.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.disneyresearch.com/project/botanicus-interacticus-interactive-plant-technology/&quot;&gt;Botanicus Interactus&lt;/a&gt; - Disney Research&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Reason&lt;/em&gt;: Like most documentation coming out of Disney Research PGH, it’s well scripted and has a clear voice-over. Simple photography, clear narrative, and shows enough of the “guts” to make their point.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.flong.com/projects/augmented-hand-series/&quot;&gt;Augmented Hand Series&lt;/a&gt; - Golan Levin&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Reason&lt;/em&gt;: Thorough documentation which uses video well to showcase both the concept, implementation and vistor responses. Beautifully illustrates the hand transformations and connects them to theory, science and cultural precedents.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.madlab.cc/tactum&quot;&gt;Tactum&lt;/a&gt; - Madeline Gannon&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Reason&lt;/em&gt;: simple photography, beautiful typography, simple language and text&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.simonheijdens.com/index.php?type=project&amp;amp;name=Shade%20London&quot;&gt;Shade London&lt;/a&gt; - Simon Heijdens&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Reason&lt;/em&gt;: Great project, but simple, well shot, steady video&lt;/p&gt;
-
-&lt;h3 id=&quot;what-should-a-student-focus-on-in-their-documentation&quot;&gt;What should a student focus on in their documentation?&lt;/h3&gt;
-
-&lt;p&gt;At a high level, you should focus on:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;ol&gt;
-    &lt;li&gt;Analytic writing skills.&lt;/li&gt;
-    &lt;li&gt;Basic media production (stills, video).&lt;/li&gt;
-    &lt;li&gt;Basic document production.&lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Suggestions included:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Technical camera usage (aperature, exposure/framerate, ISO, focus, focal length, etc.)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Composition strategies for camera use (rule of thirds, choosing focal length, etc)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Lighting (soft light vs hard light, three-point lighting setup, leveraging natural light)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Narrative, storytelling, and sequencing, and when preparing videos:  and timing.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Editing software&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Presentation skills (the ability to speak confidently and succinctly about a project or concept)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Media Design (illustration and documentation, how do we communicate and even market ideas?)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Notice that good documentation cuts across: Photogrophy, Videography, Sound Recording, Video/Sound Editing, and Lighting!&lt;/p&gt;
-
-&lt;h2 id=&quot;some-resources&quot;&gt;Some resources&lt;/h2&gt;
-
-&lt;h4 id=&quot;equipment&quot;&gt;Equipment&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Within IDeATe, you have access to a &lt;a href=&quot;https://www.cmu.edu/integrated-innovation/&quot;&gt;tonne of equipment&lt;/a&gt; from DSLRs, magic arms and USB mics to help you prepare great documentation. All of this can be checked out from the basement of Hunt Library. Get familiar with what’s available to you&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hunt Library circulation (HL1) also has media technology to lend, including: audio mics, audio recorders, AV accessories, digital still cameras, HDV camcorders, Pico pocket projectors, webcams and more. Take a look at &lt;a href=&quot;http://www.library.cmu.edu/using/techlending&quot;&gt;Tech Lending&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Don’t underestimate the tech in your pocket. Your smartphone has awesome capture capabilities. With a megapixel camera and apps like &lt;a href=&quot;https://vimeo.com/cameo&quot;&gt;Vimeo’s Cameo&lt;/a&gt; you can quickly high quality videos with custom soundtracks.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Don’t forget to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;use good lighting;&lt;/li&gt;
-  &lt;li&gt;use a tripod for stability; and&lt;/li&gt;
-  &lt;li&gt;use good mics when sound recording.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;learning&quot;&gt;Learning&lt;/h4&gt;
-
-&lt;p&gt;Below is an evolving set of external resources that can help you with your project documentation&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Vimeo maintains a great set of resources for beginnings to learn about capture and editing. Take a look at their &lt;a href=&quot;https://vimeo.com/blog/category/video-school/page:33&quot;&gt;Video School&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.cmu.edu/lynda/&quot;&gt;Lynda&lt;/a&gt; (free to CMU user’s) maintains some wonderful tutorials on the basics of cameras, photography and documentation.&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.lynda.com/Foundations-of-Photography-training-tutorials/1113-0.html&quot;&gt;Foundations of Photography Tutorials&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.lynda.com/Filmmaking-tutorials/Video-Lighting-101/456359-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3avideo+101%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2&quot;&gt;introduction to lighting fundamentals &lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.lynda.com/Photoshop-tutorials/Learn-Product-Photography-Fundamentals/439679-2.html&quot;&gt;Learn Product Photography: Fundamentals&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.lynda.com/Premiere-Pro-tutorials/Introduction-Video-Editing/193836-2.html&quot;&gt;Introduction to Video Editing &lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</content>
- </entry>
- 
- <entry>
    <title>Course Fees</title>
    <link href="http://localhost:4000/course/structure/2016/01/07/resource-fee/"/>
    <updated>2016-01-07T07:53:25-05:00</updated>
@@ -648,269 +403,19 @@
 
 &lt;p&gt;Course Fees are charged to students participating in this course. These are determined by resource access (i.e. spaces &amp;amp; equipment), consumables (i.e. materials), and any other course related fees (i.e. Field Trips). This one time fee should cover most course related costs.&lt;/p&gt;
 
-&lt;p&gt;In addition to the toolkit provided to each students, the fee will be used to cover the purchase of project-specific hardware (components, consumables, etc.). This will be made available to each student for each project. These will be a shared resource and on the completion of those projects, students must return project-specific hardware for use in future projects in and beyond the duration of the course. Students may wish to use advanced or other hardware for their projects. Where possible, accomodations to purchase hardware will be made, but students should be aware they may be responsible for the cost of other hardware or consumables beyond those directly.&lt;/p&gt;
+&lt;p&gt;In addition to the toolkit provided to each students, the fee will be used to cover the purchase of project-specific hardware (components, consumables, etc.). This will be made available to each student for each project. These will be a shared resource and on the completion of those projects, students must return project-specific hardware for use in future projects in and beyond the duration of the course. Students may wish to use advanced or other hardware for their projects. Where possible, accommodations to purchase hardware will be made, but students should be aware they may be responsible for the cost of other hardware or consumables beyond those directly.&lt;/p&gt;
 
 &lt;p&gt;The course fee will be posted to your student account before the end of the semester.&lt;/p&gt;
 
 &lt;p&gt;What the Course Fee also covers:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;access to the following facility resources: Physical Computing Lab (A10)&lt;/li&gt;
+  &lt;li&gt;Access to the following facility resources: Physical Computing Lab (A10)&lt;/li&gt;
   &lt;li&gt;You will gain Access to IDeATe Lending (A29); providing you with immediate availability of various materials, tools, electronics, peripherals, equipment, and mobile computing platforms- related to your specific workflows.&lt;/li&gt;
   &lt;li&gt;You will receive a Particle IoT development kit which contains all of the basic hardware for your projects. You will retain this at the end of the course.&lt;/li&gt;
   &lt;li&gt;You will receive access to advanced hardware, tools, materials and consumables that are made available for specific projects.&lt;/li&gt;
   &lt;li&gt;You will be given a small allocation for your collaborative team to purchase equipment for your final projects.&lt;/li&gt;
 &lt;/ol&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Using the Course Slack</title>
-   <link href="http://localhost:4000/tech/collaboration/2015/11/13/using-slack/"/>
-   <updated>2015-11-13T13:45:25-05:00</updated>
-   <id>http://localhost:4000/tech/collaboration/2015/11/13/using-slack</id>
-   <content type="html">&lt;p class=&quot;message&quot;&gt;
-  Use the course slack to share ideas, post open challenges or items that need exploration, share prior projects and discuss next steps.
-&lt;/p&gt;
-
-&lt;p&gt;The course is self-motivated, collaborative and interdisciplinary. We’re going to generate a lot of ideas and run into challenges (technical and otherwise) that will be important to capture, share and discuss.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://rsma2018.slack.com&quot;&gt;course slack&lt;/a&gt; is a really important component of this and has been set up to give everyone involved have a way to easily connect and communicate. We’re hoping it’s going to be a great resource for everyone in the class, but we also want to make sure it’s friendly and respectful at all times and make sure folks feel comfortable and supported. With those goals in mind we’ve developed a Code of Conduct for everyone using this Slack.&lt;/p&gt;
-
-&lt;h4 id=&quot;suggested-uses&quot;&gt;Suggested uses&lt;/h4&gt;
-
-&lt;p&gt;Use the course Slack to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Share interesting projects and related work you discover in your research&lt;/li&gt;
-  &lt;li&gt;Post research, resources, tools, data, etc. that might be useful&lt;/li&gt;
-  &lt;li&gt;Pose questions or challenges that need to be solved as part of the course&lt;/li&gt;
-  &lt;li&gt;Discuss ideas presented in class&lt;/li&gt;
-  &lt;li&gt;Brainstorm possible directions or new ideas&lt;/li&gt;
-  &lt;li&gt;Find help with your projects&lt;/li&gt;
-  &lt;li&gt;Organize pop-up meetups&lt;/li&gt;
-  &lt;li&gt;Ask questions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;course-slack-guidelines-note--all-credit-to-the-ember-community-slack-guidelines-used-to-build-these-guidelines&quot;&gt;Course Slack Guidelines (NOTE:  All credit to the Ember Community Slack Guidelines used to build these guidelines)&lt;/h4&gt;
-
-&lt;p&gt;The course Slack has been set up to help everyone involved have a way to connect and communicate. We’re hoping it’s going to be a great resource for everyone in the program, but we also want to make sure it’s friendly and respectful at all times and make sure folks feel comfortable and supported. With those goals in mind we’ve developed a Code of Conduct for everyone using this Slack.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chatting on Channels&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We encourage you to talk with other folks in the course through Slack - but you don’t have to use it - and it’s a great way to share resources, discuss and brainstorm together. It’s a really place for all of the students in the studio to find each other and each other’s work. To help with this, we’ve created some channels and integrations:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://rsma2018.slack.com/messages/discoveries/&quot;&gt;#discoveries&lt;/a&gt; - a channel to quickly share small-scale discoveries you’ve made like code snippets or libraries&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://rsma2018.slack.com/messages/readings/&quot;&gt;#readings&lt;/a&gt; - want to share thoughts or questions about the readings or perhaps add another to the mix?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://rsma2018.slack.com/messages/projects/&quot;&gt;#projects&lt;/a&gt; - discuss projects and assignments for the course.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://rsma2018.slack.com/messages/share/&quot;&gt;#share&lt;/a&gt; - share links, papers or articles you find that might be interesting to the group.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://rsma2018.slack.com/messages/help/&quot;&gt;#help&lt;/a&gt; - want to find some help? brainstorm a problem? find a collaborator? ask the group. Or if you’ve got open questions which need to be addressed?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There are a few channel in case you want to share or discuss stuff related to other stuff, and new channels can be created on request.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Creating New Channels&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;New channels can be requested by contacting one of the team admins or owners with the proposed name and topic description. Generally, new channels are only created once a critical mass exists around the topic has been established. Some short term initiatives such as events like open houses, etc., may also warrant a unique channel while relevant. We’ll account for those and lean on the voice of the community to judge their need.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;@everyone&lt;/strong&gt;, &lt;strong&gt;@channel&lt;/strong&gt;, or &lt;strong&gt;@group&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We have the &lt;a href=&quot;http://rsma2018.slack.com/messages/general/&quot;&gt;#general&lt;/a&gt; channel if you want to share something big with the whole course community. Team Owners and Admins can distribute notifications via @everyone, @channel, or @group. In any case, be respectful of the many people who will receive notifications (often to mobile devices), and especially if it’s late at night.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Communicating through Slack&lt;/strong&gt; (NOTE:  Adapted from https://docs.puppetlabs.com/community/community_guidelines.html )&lt;/p&gt;
-
-&lt;p&gt;We want to keep the course slack community awesome, and we need your help to keep it that way. While we have specific guidelines for various tools (see links below), in general, you should:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Be nice:&lt;/em&gt; Be courteous, respectful and polite to fellow community members. No offensive comments related to gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, race, religion; no sexual images in public spaces, real or implied violence, intimidation, oppression, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, or unwelcome sexual attention will be tolerated. We like nice people way better than mean ones!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Encourage diversity and participation:&lt;/em&gt; Make everyone in our community feel welcome, regardless of their background, and do everything possible to encourage participation in our community.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Keep it legal:&lt;/em&gt; Basically, don’t get us in trouble. Share only content that you own, do not share private, or sensitive information, and don’t break the law.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Stay on topic:&lt;/em&gt; Make sure that you are posting to the correct online channel and avoid off-topic discussions. Also remember that nobody likes spam.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;See the more detailed code of conduct below.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;code-of-conduct&quot;&gt;Code of Conduct&lt;/h4&gt;
-
-&lt;p&gt;&lt;em&gt;This policy is a “living” document, and subject to refinement and expansion in the future. This is based on the Front-end London Slack’s Code of Conduct, that nicely explains some common guidelines for Slack Communities&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Course Community&lt;/strong&gt; should be a safe place for everybody regardless of gender, gender identity or gender expressio, sexual orientation, disability, physical appearance (including but not limited to body size), race, age, religion.&lt;/p&gt;
-
-&lt;p&gt;As someone who is part of this Slack, you agree that: We are collectively and individually committed to safety and inclusivity; We have zero tolerance for abuse, harassment, or discrimination; We respect people’s boundaries and identities; We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs; We avoid using offensive topics as a form of humor.&lt;/p&gt;
-
-&lt;p&gt;We actively work towards: Being a safe community; Cultivating a network of support &amp;amp; encouragement for each other; Encouraging responsible and varied forms of expression&lt;/p&gt;
-
-&lt;p&gt;We condemn: Threats of harm; Harassment of any form; Anything that compromises people’s safety; etc.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;These things are NOT OK.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you say something that is found offensive, and you are called out on it, let’s:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Listen without interruption.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Believe what the person is saying &amp;amp; do not attempt to disqualify what they have to say.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ask for tips / help with avoiding making the offense in the future.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Apologize and ask forgiveness.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Failing to follow the community guidelines as described in this document carries consequences. Admins reserve the right to suspend any account if we receive a complaint(s).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Daragh Byrne - @daragh&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.&lt;/em&gt;&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>The Gallery</title>
-   <link href="http://localhost:4000/tech/formats/update/2015/11/11/the-gallery/"/>
-   <updated>2015-11-11T13:45:25-05:00</updated>
-   <id>http://localhost:4000/tech/formats/update/2015/11/11/the-gallery</id>
-   <content type="html">&lt;p&gt;We’ll use the &lt;a href=&quot;http://integratedinnovation.xsead.cmu.edu&quot;&gt;Gallery&lt;/a&gt; to post and share project documentation for the course. Every student should create an account on the project gallery and fill out profile information. The system allows for either private or public postings, where ‘semi-private’ projects are viewable only by other logged-in members and ‘public’ is viewable to the world.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/public/images/gallery.jpg&quot; alt=&quot;Image of the Gallery Interface&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;what-is-the-gallery&quot;&gt;What is the Gallery&lt;/h3&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://integratedinnovation.xsead.cmu.edu&quot;&gt;Gallery&lt;/a&gt; is an online tool to document, present and share projects created in your courses. It’s designed as a place to showcase your work and connect around outcomes. It supports your coursework by providing a place to document your projects as they develop and get feedback from your colleagues and instructors.&lt;/p&gt;
-
-&lt;p&gt;Visit: &lt;a href=&quot;http://integratedinnovation.xsead.cmu.edu&quot;&gt;http://integratedinnovation.xsead.cmu.edu&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;how-its-organized&quot;&gt;How it’s organized:&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://integratedinnovation.xsead.cmu.edu/gallery/projects&quot;&gt;Projects&lt;/a&gt; are organized in &lt;a href=&quot;http://integratedinnovation.xsead.cmu.edu/gallery/pools&quot;&gt;pools&lt;/a&gt; that can be sorted by concentration area, course, or user. Each project has a team, and anyone of these &lt;a href=&quot;http://integratedinnovation.xsead.cmu.edu/profiles&quot;&gt;people&lt;/a&gt; can manage the project. A project also has rich ‘documentation’ which lets you describe how and why the outcome was created.&lt;/p&gt;
-
-&lt;h3 id=&quot;how-it-works&quot;&gt;How it works:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Your instructor will create a &lt;a href=&quot;http://integratedinnovation.xsead.cmu.edu/gallery/pools&quot;&gt;Pool&lt;/a&gt; for your creative assignment and share the link to it&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Once you join the pool, you can create your project; and it will appear in the pool along with others from your class.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;You can review these projects as they evolve and give feedback and advice to others working on the same problem and get advice on your work too&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;why-use-it&quot;&gt;Why use it:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;It’s a central place to manage all your coursework and projects&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Document your projects from the start, in the middle, and not just at the end!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Collaborative prepare your documentation&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Use all sorts of multimedia to describe your work (supports online videos, code, audio, documents, and uploads inline)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Get feedback and critique of your work when you need it&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;See the projects and interests of your collaborators, classmates and peers&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Quickly discover projects across all a range of areas and topics&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Projects on the Gallery can become highlighted projects on the main website.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;creating-a-new-project&quot;&gt;Creating a new Project:&lt;/h3&gt;
-
-&lt;p&gt;Setting up a new project is a straightforward process which will only take a couple of minutes. A project will almost always map directly to a single creative assignment give to you as part of a course. Every user with a valid Andrew ID will be able to create a project. This check might take a day or two after you setup your account; when you are you’ll see a ‘Add New Project’ button in the top right corner.&lt;/p&gt;
-
-&lt;p&gt;Here is the minimum amount of information you’ll need to start your project:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;A title (keep it short!)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A primary category (area) that it should be listed under&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Description of goals (500 characters or less)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A cover image (JPEG, PNG, GIF or JPG, 5MB file limit, 1024x768 pixels recommended)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A list of team members/collaborators (add them with their username,so  they must be signed up!)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;You also get to decide who can see your project by changing its visibility settings. These settings allow you to make it viewable by anyone (public), viewable by signed in users only (semi-public), viewable only by the project team (private). The private mode is perfect for preparing your documentation before it’s ready!&lt;/p&gt;
-
-&lt;h3 id=&quot;creating-a-profile&quot;&gt;Creating a profile:&lt;/h3&gt;
-
-&lt;p&gt;We recommend every student take a few minutes to set up a profile on the &lt;a href=&quot;http://integratedinnovation.xsead.cmu.edu/gallery/&quot;&gt;Gallery&lt;/a&gt;. Every registered student will have a profile and it’s a great way for you to discover what other students are working on, to find potential collaborators for your work, and to help us get to know you better as a student. You can find other students, and their work, on the &lt;a href=&quot;http://integratedinnovation.xsead.cmu.edu/profiles/&quot;&gt;Profile&lt;/a&gt; page. You can also contact them through the built in messaging system if you’d like their advice, input or expertise!&lt;/p&gt;
-
-&lt;p&gt;You don’t have to add any information you don’t want to or you can use a pseudonym for your account if you’d prefer not to use your real name. You also get to decide what work is associated with this profile by changing the visibility settings of your projects.&lt;/p&gt;
-
-&lt;p&gt;Here is the information you can complete when you set up your profile:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;username (real or pseudonymous)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;real name (first and last name)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;profile image (square is best, and bigger than 256px recommended)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;biography (200 chars max)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;focus areas (program area interests; choose from a fixed list)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;skills with which you identify (choose from a list or add your own)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
 </content>
  </entry>
  

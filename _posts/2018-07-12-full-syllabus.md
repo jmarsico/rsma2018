@@ -11,7 +11,7 @@ title: Full Syllabus
 <table>
   <tr>
     <td>Course Prefix & Number</td>
-    <td>49-313 (12 units)</td>
+    <td>48-734 (9 units)</td>
   </tr>
   <tr>
     <td>Meeting times</td>

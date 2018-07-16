@@ -11,7 +11,7 @@ Spring 2017, Carnegie Mellon University
 <table>
   <tr>
     <td>Course Prefix & Number</td>
-    <td>49-313 (9 units)</td>
+    <td>48-734 (9 units)</td>
   </tr>
   <tr>
     <td>Meeting times</td>
@@ -72,16 +72,14 @@ Week (Beginning)			| Summary
 
 ## Logistics
 
-1. We use [Slack]({{ site.slack }}) as our primary communication channel. We use it to post precedent research, ask technical questions, collaborate on group projects. It is the preferred method for contacting the instructor and TA as well. Please [Download](https://slack.com/downloads) the app for phone and computer if you don't already have it.
+1. We use [Slack]({{site.slack }}) as our primary communication channel. We use it to post precedent research, ask technical questions, collaborate on group projects. It is the preferred method for contacting the instructor and TA as well. Please [Download](https://slack.com/downloads) the app for phone and computer if you don't already have it.
 
-2. We use the [IDeATe Gallery]({{site.gallery}}) to post project documentation. Beautiful, well-articulated and informative documentation is a central pillar of this course. Guidelines and expectactions for project documentation can be found [here](({{site.base_url}}/tech/formats/update/2015/11/11/the-gallery/))
+2. We use the [IDeATe Gallery]({{site.gallery}}) to post project documentation. Beautiful, well-articulated and informative documentation is a central pillar of this course. Guidelines and expectactions for project documentation can be found [here]({{site.baseurl}}/deliverables/documentation)
 
-Creative projects should be documented on the [Gallery]({{site.gallery}}). This site contains [a guide]({{site.base_url}}/deliverables/documentation/) to using the gallery. These are due _before_ Thursday's class.
+2. [Weekly readings]({{site.baseurl}}/readings) should be completed by Friday evening. Summaries should be completed on canvas.
 
-2. [Weekly readings]({{site.base_url}}/readings) should be completed by Friday evening. Summaries should be completed on canvas.
+2. It's your responsibility to be familiar with the [course policies and standards]({{site.baseurl}}/logistics/syllabus/) found in the full syllabus. If you cannot attend classes make sure you know what to do. 	
 
-2. It's your responsibility to be familiar with the [course policies and standards]({{site.baseurl}}/2017/01/01/full-syllabus/) found in the full syllabus. If you cannot attend classes make sure you know what to do. 	
-
-2. There is a [course fee]({{site.base_url}}/course/structure/2016/01/07/resource-fee/) and this gives you an IoT development kit. This should cover most of your needs for projects. But at times you'll need special software, hardware or tools to complete your projects. Many of these will be made as part of this course. If there's something else you need let us know.
+2. There is a [course fee]({{site.baseurl}}/logistics/resource-fee/) and this gives you an IoT development kit. This should cover most of your needs for projects. But at times you'll need special software, hardware or tools to complete your projects. Many of these will be made as part of this course. If there's something else you need let us know.
 
 2. No late work accepted. Please don't ask.
