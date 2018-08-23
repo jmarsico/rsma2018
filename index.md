@@ -5,7 +5,7 @@ title: About
 
 
 <br>**Reactive Spaces and Media Architecture** <br/>
-Spring 2017, Carnegie Mellon University
+Fall 2018, Carnegie Mellon University
 
 
 <table>
@@ -38,6 +38,7 @@ Spring 2017, Carnegie Mellon University
     <td>
 		Marsico: Tuesday, 7:50pm - 9:00pm, Hunt A10.
     </td>
+    </tr>
   <tr>
     <td>
     </td>
