@@ -57,7 +57,7 @@ Fall 2018, Carnegie Mellon University
 
 * [Organization and Deliverables]({{site.baseurl}}/deliverables/documentation/)
 * [Schedule]({{site.baseurl}}/schedule/)
-* [Readings]({{site.baseurl}}/readings/)
+* [Precedent Research]({{site.baseurl}}/precedent/)
 * [Resources]({{site.baseurl}}/resources/)
 * [Full Syllabus]({{site.baseurl}}/logistics/syllabus/)
 * [Grading]({{site.baseurl}}/logistics/grading/), [Deliverables]({{site.baseurl}}/organization/#deliverables) and [Attendance Policies]({{site.baseurl}}/2016/08/22/attendance/)
