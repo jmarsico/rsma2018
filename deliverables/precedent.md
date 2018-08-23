@@ -61,7 +61,7 @@ Discoveries will be graded as **pass/fail**:
 
 - _0 - Unsatisfactory_ - Incomplete or failing work. The example does not fit within the constraints of the project, is not relevant to the course or does not demonstrate any comprehension, reflection or analysis on it.
 
-- _1 - Satisfactory or better_ - Meets or exceeds the minimum requirements for the exercise; Highlights a good example within the scope of the exercise AND shows adequate research and reflection.
+- _50 - Satisfactory or better_ - Meets or exceeds the minimum requirements for the exercise; Highlights a good example within the scope of the exercise AND shows adequate research and reflection.
 
 This will be applied to EACH discovery.
 

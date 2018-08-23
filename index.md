@@ -60,8 +60,8 @@ Fall 2018, Carnegie Mellon University
 * [Precedent Research]({{site.baseurl}}/precedent/)
 * [Resources]({{site.baseurl}}/resources/)
 * [Full Syllabus]({{site.baseurl}}/logistics/syllabus/)
-* [Grading]({{site.baseurl}}/logistics/grading/), [Deliverables]({{site.baseurl}}/organization/#deliverables) and [Attendance Policies]({{site.baseurl}}/2016/08/22/attendance/)
-* [Extra Credit]({{site.baseurl}}/extra_credit/)
+* [Grading]({{site.baseurl}}/logistics/grading/), [Deliverables]({{site.baseurl}}/organization/#deliverables) and [Attendance Policies]({{site.baseurl}}/logistics/attendance/)
+* [Extra Credit]({{site.baseurl}}/logistics/extra_credit/)
 
 ## [Weekly Schedule]({{site.baseurl}}/schedule)
 

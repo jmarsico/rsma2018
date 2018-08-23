@@ -53,4 +53,4 @@ Participation does not mean raising your hand to ramble, pontificate or philosop
 
 ## Extra Credit
 
-Extra credit is available for those who have a border percentage and would like bump their grade. Information on extra credit can be found [here]({{site.baseurl/logistics/extra-credit/}}).
+Extra credit is available for those who have a border percentage and would like bump their grade. Information on extra credit can be found [here]({{site.baseurl}}/logistics/extra-credit/).
