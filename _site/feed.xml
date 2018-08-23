@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reactive Spaces and Media Architecture</title>
-    <description>A hands-on introductory course exploring the Internet of Things and connected product experiences.</description>
+    <description>Project-based course for exploring large scale dynamic media in the built environment.</description>
     <link>http://localhost:4000/rsma2018/</link>
     <atom:link href="http://localhost:4000/rsma2018/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 12 Jul 2018 09:29:30 -0400</pubDate>
-    <lastBuildDate>Thu, 12 Jul 2018 09:29:30 -0400</lastBuildDate>
+    <pubDate>Mon, 16 Jul 2018 09:09:57 -0400</pubDate>
+    <lastBuildDate>Mon, 16 Jul 2018 09:09:57 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>

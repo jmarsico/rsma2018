@@ -31,20 +31,20 @@ Spring 2017, Carnegie Mellon University
 
   <tr>
     <td>Teaching Assistant</td>
-    <td><a href="mailto:XXXXX@cmu.edu ">XXXX</a></td>
+    <td><a href="mailto:tmustako@andrew.cmu.edu ">Tatyana Mustakos</a></td>
   </tr>
   <tr>
     <td>Office Hours:</td>
     <td>
 		Marsico: Tuesday, 7:50pm - 9:00pm, Hunt A10.
     </td>
-  </tr>
   <tr>
-    <td>Lab Content:</td>
+    <td></td>
     <td>
-		<a href="http://jmarsico.github.io/rsmalabs/">RSMA Lab Site</a>
-	</td>
+    Mustakos: TBD
+    </td>
   </tr>
+ 
 
 </table>
 
@@ -55,31 +55,31 @@ Spring 2017, Carnegie Mellon University
 
 ## Course Content
 
-* [Organization and Deliverables]({{site.baseurl}}/organization/)
+* [Organization and Deliverables]({{site.baseurl}}/deliverables/documentation/)
 * [Schedule]({{site.baseurl}}/schedule/)
 * [Readings]({{site.baseurl}}/readings/)
 * [Resources]({{site.baseurl}}/resources/)
-* [Full Syllabus]({{site.baseurl}}/2017/01/01/full-syllabus/)
-* [Grading]({{site.baseurl}}/2017/01/02/grading/), [Deliverables]({{site.baseurl}}/organization/#deliverables) and [Attendance Policies]({{site.baseurl}}/2016/08/22/attendance/)
+* [Full Syllabus]({{site.baseurl}}/logistics/syllabus/)
+* [Grading]({{site.baseurl}}/logistics/grading/), [Deliverables]({{site.baseurl}}/organization/#deliverables) and [Attendance Policies]({{site.baseurl}}/2016/08/22/attendance/)
 * [Extra Credit]({{site.baseurl}}/extra_credit/)
 
 ## [Weekly Schedule]({{site.baseurl}}/schedule)
 
-Week (Beginning)			| Summary
-| :------------- | :----------- |
-1 (Jan 16)  			| [Introduction]({{site.baseurl}}/schedule/#week1)
+| Week (Beginning) | Summary                                          |
+| :--------------- | :----------------------------------------------- |
+| 1 (Jan 16)       | [Introduction]({{site.baseurl}}/schedule/#week1) |
 
 
 ## Logistics
 
-1. We use [Slack]({{site.slack }}) as our primary communication channel. We use it to post precedent research, ask technical questions, collaborate on group projects. It is the preferred method for contacting the instructor and TA as well. Please [Download](https://slack.com/downloads) the app for phone and computer if you don't already have it.
+1. We use [Slack]({{site.slack}}) as our primary communication channel. We use it to post precedent research, ask technical questions, collaborate on group projects. It is the preferred method for contacting the instructor and TA as well. Please [Download](https://slack.com/downloads) the app for phone and computer if you don't already have it.
 
 2. We use the [IDeATe Gallery]({{site.gallery}}) to post project documentation. Beautiful, well-articulated and informative documentation is a central pillar of this course. Guidelines and expectactions for project documentation can be found [here]({{site.baseurl}}/deliverables/documentation)
 
-2. [Weekly readings]({{site.baseurl}}/readings) should be completed by Friday evening. Summaries should be completed on canvas.
+3. [Bi-Weekly Precedent Research]({{site.baseurl}}/readings) should be completed by Friday evening and posted to the "Precedent" channel in our [Slack]({{site.slack}}).
 
-2. It's your responsibility to be familiar with the [course policies and standards]({{site.baseurl}}/logistics/syllabus/) found in the full syllabus. If you cannot attend classes make sure you know what to do. 	
+4. It's your responsibility to be familiar with the [course policies and standards]({{site.baseurl}}/logistics/syllabus/) found in the full syllabus. If you cannot attend classes make sure you know what to do. 	
 
-2. There is a [course fee]({{site.baseurl}}/logistics/resource-fee/) and this gives you an IoT development kit. This should cover most of your needs for projects. But at times you'll need special software, hardware or tools to complete your projects. Many of these will be made as part of this course. If there's something else you need let us know.
+5. There is a [course fee]({{site.baseurl}}/logistics/resource-fee/) and this gives you an IoT development kit. This should cover most of your needs for projects. But at times you'll need special software, hardware or tools to complete your projects. Many of these will be made as part of this course. If there's something else you need let us know.
 
-2. No late work accepted. Please don't ask.
+6. No late work accepted. Please don't ask.
