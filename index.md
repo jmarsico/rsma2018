@@ -4,7 +4,7 @@ title: About
 ---
 
 
-**Reactive Spaces and Media Architecture** <br/>
+<br>**Reactive Spaces and Media Architecture** <br/>
 Spring 2017, Carnegie Mellon University
 
 
@@ -44,8 +44,6 @@ Spring 2017, Carnegie Mellon University
     Mustakos: TBD
     </td>
   </tr>
- 
-
 </table>
 
 ## Course Description
