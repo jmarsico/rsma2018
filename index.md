@@ -39,7 +39,8 @@ Spring 2017, Carnegie Mellon University
 		Marsico: Tuesday, 7:50pm - 9:00pm, Hunt A10.
     </td>
   <tr>
-    <td></td>
+    <td>
+    </td>
     <td>
     Mustakos: TBD
     </td>
