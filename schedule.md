@@ -3,9 +3,9 @@ layout: page
 title: Schedule
 ---
 
-Week (Beginning)			| Summary 		| Assignments
-| :------------- | :----------- | :----------- |
-1 (Aug 27)  			| __[Introduction to IoT and Connected Products](#week1)__ 		| [Mini Assignment - Product Hunt](../assignments/product-hunt)<br/> [Readings #1](../readings/#reading1)
+| Week (Beginning) | Summary                                                  | Assignments                                                                                             |
+| :--------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
+| 1 (Aug 27)       | __[Introduction to IoT and Connected Products](#week1)__ | [Mini Assignment - Product Hunt](../assignments/product-hunt)<br/> [Readings #1](../readings/#reading1) |
 
 
 
@@ -20,24 +20,29 @@ Week (Beginning)			| Summary 		| Assignments
 
 ### Week 1: Introduction to Media Architecture
 
-Monday Aug 27				| Wednesday Aug 29
-| :-------------| :------------- |
-General Introduction to the course.		|		[Introduction to TouchDesigner framework](http://jmarsico.github.io/rsmalabs//)
-Introduction to Media Architecture		|		[Introduction to Addressable LEDs with Advatek](http://jmarsico.github.io//)
-[In Class Exercise #1: Data-Driven Walkway](../exercises/in-class-1)	|		[Driving LEDs from TouchDesigner](http://jmarsico.github.io/rsmalabs//)
+| Monday Aug 27                                                                    | Wednesday Aug 29                                                                |
+| :------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ |
+| General Introduction to the course.                                              | [Introduction to TouchDesigner framework]({{site.baseurl}}/tutorials/td_intro/) |
+| Introduction to Media Architecture                                               |                                                                                 |
+| [Project 0: Data-Driven Walkway]({{site.baseurl}}assignments/Project_00_Bridge/) |                                                                                 |
 
 ##### Assignments Given
 
-- Discovery #1 - [Precedent Research](../assignments/precedent)  Due Sep 3
-- Readings #1 - [Peripheral Displays ](../readings/#reading1)  Due Sep 5
+- Precedent Research #1 - [Precedent Research](../assignments/precedent)  Due Aug 29
+- Project 0 - [Experiential Bridge]({{site.baseurl}}/assignments/Project_00_Bridge/) Due Sep 5
+
+##### Assignments Due
+- ["Get To Know You" form](https://goo.gl/forms/rpmuKYmKeJptNUSb2) Due Aug 29
+- Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 29
+- Precedent Research #1 [Precedent Research]({{site.baseurl}}/deliverables/precedent/) Due Aug 29
 
 <a name="week2"></a>
 
 ### Week 2: Peripheral Displays
 
-Monday Sep 3							| Wednesday Sep 5
-| :-------------| :------------- |
-
+| Monday Sep 3 | Wednesday Sep 5                                                     |
+| :----------- | :------------------------------------------------------------------ |
+| No class!    | [Touchdesigner and Arduino]({{site.baseurl}}/tutorials/td_arduino/) |
 
 ##### Assignments Given
 
@@ -47,19 +52,19 @@ Monday Sep 3							| Wednesday Sep 5
 
 ### Week 3: Peripheral Displays
 
-Monday Sep 10							| Wednesday Sep 12
-| :-------------| :------------- |
-[Project 1](../assignments/project-1)	Work Day | Prototyping [Project 1](../assignments/project-1)
+| Monday Sep 10                                  | Wednesday Sep 12                                  |
+| :--------------------------------------------- | :------------------------------------------------ |
+| [Project 1](../assignments/project-1)	Work Day | Prototyping [Project 1](../assignments/project-1) |
 
 
 <a name="week4"></a>
 
 ### Week 4: Exploring Ambience and Tangible Data
 
-Tuesday Feb 6							| Thursday Feb 8
-| :-------------| :------------- |
-[In Class Exercise 3](../exercises/in-class-3)- Speed Dating for Ideas				 | Working with APIs + Data
-[Introduction to Creative Project #2](../assignments/creative-assignment-2)	  | Designing Ambient Behaviour
+| Tuesday Feb 6                                                               | Thursday Feb 8              |
+| :-------------------------------------------------------------------------- | :-------------------------- |
+| [In Class Exercise 3](../exercises/in-class-3)- Speed Dating for Ideas      | Working with APIs + Data    |
+| [Introduction to Creative Project #2](../assignments/creative-assignment-2) | Designing Ambient Behaviour |
 
 ##### Assignments Due
 - Creative Assignment #1 - [Home Hack]((../assignments/creative-assignment-1)) Due Tuesday Feb 6 [Gallery Pool](http://ideate.xsead.cmu.edu/gallery/pools/creative-project-1-home-hack)
@@ -78,9 +83,9 @@ Tuesday Feb 6							| Thursday Feb 8
 
 ### Week 5: Exploring Ambience and Tangible Data
 
-Tuesday Feb 13							| Thursday Feb 15
-| :-------------| :------------- |
-[Discussion: Ambience and the IoT]({{site.baseurl}}/assignments/ambient-devices)	 | Controlling Advanced Outputs
+| Tuesday Feb 13                                                                   | Thursday Feb 15              |
+| :------------------------------------------------------------------------------- | :--------------------------- |
+| [Discussion: Ambience and the IoT]({{site.baseurl}}/assignments/ambient-devices) | Controlling Advanced Outputs |
 
 ##### Assignments Due
 - Readings #3 - [Envisioning Connectivity in the Home](../readings/#reading3)  Due Tuesday Feb 13 on Canvas
@@ -89,10 +94,10 @@ Tuesday Feb 13							| Thursday Feb 15
 
 ### Week 6: Envisioning Connectivity for Domestic Settings
 
-Tuesday Feb 20							| Thursday Feb 22
-| :-------------| :------------- |
-Introduction/Prototyping [Creative Project #3](../assignments/creative-assignment-3)						 | Communicating with two or more devices
-In Class Exercise [4-a](../exercises/in-class-4a) 						 | [4-b](../exercises/in-class-4b)
+| Tuesday Feb 20                                                                       | Thursday Feb 22                        |
+| :----------------------------------------------------------------------------------- | :------------------------------------- |
+| Introduction/Prototyping [Creative Project #3](../assignments/creative-assignment-3) | Communicating with two or more devices |
+| In Class Exercise [4-a](../exercises/in-class-4a)                                    | [4-b](../exercises/in-class-4b)        |
 
 
 ##### Assignments Due
@@ -109,9 +114,9 @@ In Class Exercise [4-a](../exercises/in-class-4a) 						 | [4-b](../exercises/in
 
 ### Week 7: Envisioning Connectivity for Domestic Settings
 
-Tuesday Feb 27							| Thursday Mar 1
-| :-------------| :------------- |
-Prototyping [Creative Project #3](../assignments/creative-assignment-3)						 | Prototyping [Creative Project #3](../assignments/creative-assignment-3)
+| Tuesday Feb 27                                                          | Thursday Mar 1                                                          |
+| :---------------------------------------------------------------------- | :---------------------------------------------------------------------- |
+| Prototyping [Creative Project #3](../assignments/creative-assignment-3) | Prototyping [Creative Project #3](../assignments/creative-assignment-3) |
 
 
 ##### Assignments Due
@@ -122,11 +127,11 @@ Prototyping [Creative Project #3](../assignments/creative-assignment-3)						 | 
 ### Week 8: Considering Connectivity
 
 
-Tuesday Mar 6							| Thursday Mar 8
-| :-------------| :------------- |
-The Dark Side of the IoT 					 | ---
-Introduction to [Creative Project #4](../assignments/creative-assignment-4)	 | Developing [Creative Project #4](../assignments/creative-assignment-4)
-[In Class Exercise V](../exercises/in-class-5) - Mapping Considerations and Concerns	 | ---
+| Tuesday Mar 6                                                                        | Thursday Mar 8                                                         |
+| :----------------------------------------------------------------------------------- | :--------------------------------------------------------------------- |
+| The Dark Side of the IoT                                                             | ---                                                                    |
+| Introduction to [Creative Project #4](../assignments/creative-assignment-4)          | Developing [Creative Project #4](../assignments/creative-assignment-4) |
+| [In Class Exercise V](../exercises/in-class-5) - Mapping Considerations and Concerns | ---                                                                    |
 
 ##### Assignments Due
 - Creative Assignment #3 - [Connected Intimacy](../assignments/creative-assignment-3)  Due Tuesday Mar 6 [Gallery](http://ideate.xsead.cmu.edu/gallery/pools/creative-project-3-devices-for-sharing-connected-intimacy)
@@ -150,9 +155,9 @@ Introduction to [Creative Project #4](../assignments/creative-assignment-4)	 | D
 ### Week 10: Considering Connectivity
 
 
-Tuesday Mar 20							| Thursday Mar 22
-| :-------------| :------------- |
-Developing [Creative Project #4](../assignments/creative-assignment-4)	 | Developing [Creative Project #4](../assignments/creative-assignment-4)
+| Tuesday Mar 20                                                         | Thursday Mar 22                                                        |
+| :--------------------------------------------------------------------- | :--------------------------------------------------------------------- |
+| Developing [Creative Project #4](../assignments/creative-assignment-4) | Developing [Creative Project #4](../assignments/creative-assignment-4) |
 ##### Assignments Due
 - Readings #5 - [Designing Smart Products](../readings/#reading5)  Due Tuesday Mar 20
 
@@ -162,10 +167,10 @@ Developing [Creative Project #4](../assignments/creative-assignment-4)	 | Develo
 ### Week 11: Looking to the Future
 
 
-Tuesday Mar 27							| Thursday Mar 29
-| :-------------| :------------- |
-Project Review						                                            | Work Day
-Introduction to [Final project](../assignments/final-assignment)		 |  Brainstorming for final project
+| Tuesday Mar 27                                                   | Thursday Mar 29                 |
+| :--------------------------------------------------------------- | :------------------------------ |
+| Project Review                                                   | Work Day                        |
+| Introduction to [Final project](../assignments/final-assignment) | Brainstorming for final project |
 
 ##### Assignments Due
 - Creative Assignment #4 - [ The Cutest Chainsaw](../assignments/creative-assignment-4)  Due Tuesday Mar 27 [Gallery](http://ideate.xsead.cmu.edu/gallery/pools/creative-project-4-critical-objects-the-cutest-chainsaw)
@@ -182,9 +187,9 @@ Introduction to [Final project](../assignments/final-assignment)		 |  Brainstorm
 ### Week 12: IoT Ecosystems
 
 
-Tuesday Apr 3						| Thursday Apr 5
-| :-------------| :------------- |
-Milestone I: [Familiarize](../assignments/final-familiarize/)	 	               |  Work Day
+| Tuesday Apr 3                                                 | Thursday Apr 5 |
+| :------------------------------------------------------------ | :------------- |
+| Milestone I: [Familiarize](../assignments/final-familiarize/) | Work Day       |
 
 ##### Assignments Due
 - [Final Project](../assignments/final-assignment) Milestone I: [Familiarize](../assignments/final-familiarize/)  Due Tuesday Apr 3
@@ -202,9 +207,9 @@ Milestone I: [Familiarize](../assignments/final-familiarize/)	 	               |
 ### Week 13: IoT Ecosystems
 
 
-Tuesday Apr 10						| Thursday Apr 12
-| :-------------| :------------- |
-Milestone III: [Vision Proposal](../assignments/final-vision/) 	                       |  Work Day
+| Tuesday Apr 10                                                 | Thursday Apr 12 |
+| :------------------------------------------------------------- | :-------------- |
+| Milestone III: [Vision Proposal](../assignments/final-vision/) | Work Day        |
 
 ##### Assignments Due
 - [Final Project](../assignments/final-assignment) Milestone III: [Vision Proposal](../assignments/final-vision/)  Due Tuesday Apr 10
@@ -217,9 +222,9 @@ Milestone III: [Vision Proposal](../assignments/final-vision/) 	                
 ### Week 14: IoT Ecosystems
 
 
-Tuesday Apr 17						| Thursday Apr 19
-| :-------------| :------------- |
-Prototype work day	 	                         |  Prototype work day
+| Tuesday Apr 17     | Thursday Apr 19    |
+| :----------------- | :----------------- |
+| Prototype work day | Prototype work day |
 
 
 ##### Assignments Due
@@ -233,9 +238,9 @@ Prototype work day	 	                         |  Prototype work day
 ### Week 15: IoT Ecosystems
 
 
-Tuesday Apr 24						| Thursday Apr 26
-| :-------------| :------------- |
-Milestone V: [Prototype and Present - 1st Cut Prototypes](../assignments/final-prototype/)	                       |  Work Day
+| Tuesday Apr 24                                                                             | Thursday Apr 26 |
+| :----------------------------------------------------------------------------------------- | :-------------- |
+| Milestone V: [Prototype and Present - 1st Cut Prototypes](../assignments/final-prototype/) | Work Day        |
 
 ##### Assignments Due
 - [Final Project](../assignments/final-assignment) Milestone IV: [Prototype and Present - First Cut Prototypes](../assignments/final-prototype/)  Due Apr 24
@@ -243,6 +248,6 @@ Milestone V: [Prototype and Present - 1st Cut Prototypes](../assignments/final-p
 <a name="week16"></a>
 
 ### Week 16: Final Showcase
-Tuesday May 1						| Thursday May 3
-| :-------------| :------------- |
-Milestone V: [Prototype and Present - Draft Presentation](../assignments/final-prototype/)		 	                             |  In-Class Presentation of Final Prototype
+| Tuesday May 1                                                                              | Thursday May 3                           |
+| :----------------------------------------------------------------------------------------- | :--------------------------------------- |
+| Milestone V: [Prototype and Present - Draft Presentation](../assignments/final-prototype/) | In-Class Presentation of Final Prototype |

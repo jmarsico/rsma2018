@@ -11,7 +11,7 @@ The structure of this course makes it critical for you to be in attendance. The 
 
 ## Attendance
 
-Plain and simple, you should be in every class. You shouldn't expect to receive a passing grade without regular attendance. More than three _unexcused_ absenses means you will fail the course unless appropriate documentation is provided.
+Plain and simple, you should be in every class. You shouldn't expect to receive a passing grade without regular attendance. More than three _unexcused_ absenses will result in a failing grade unless appropriate documentation is provided.
 
 There's a difference between _excused_ and _unexcused_ absenses. In most cases where you give some prompt or early notice, it's considered an excused absense.
 
@@ -21,17 +21,16 @@ In all cases where you've missed a class, you're responsible for understanding t
 
 ## Lateness
 
-Attendance is taken for all classes. _Note:_ It's your responsibilty to make sure you have signed in.
+Attendance is taken for all classes. _Note:_ It's your responsibility to let us know you're there if you weren't present when attendance was taken.
 
 Remember that any lateness affects the whole class. It is disruptive to those presenting during a crit or those watching a screening; and it is particularly disrespectful to show up late to a guest talk. Being on time allows class to start promptly and for us to focus on your work. Be a responsible and good member of the learning community.
 
-> _Lateness_ (more than 5 minutes) will negatively effect participation grade by 1%. <br/>
  > _Extreme lateness_ (more than 15 minutes) will count as a 1/3rd partial absense.
 
 ## Attention
 
-When you're in class, pay attention. Don't be on your phone, texting, tweeting, emailing, etc. If you have your laptop out, it should be for taking notes or class related activities. For everything else, please close the laptop and silence your phone. It can wait. If noted, it will also reduce your participation grade by 1%.
+When you're in class, pay attention. Don't be on your phone, texting, tweeting, emailing, etc. If you have your laptop out, it should be for taking notes or class related activities. For everything else, please close the laptop and silence your phone. It can wait. If noted, it will also reduce your participation grade by 0.5%.
 
-**This is especially egregious during crits and discussions.** If noted, it will reduce your participation grade by 2%.
+**This is especially egregious during crits and discussions.** If noted, it will reduce your participation grade by 0.5%.
 
 And if you're asleep, you might as well not be in class. This counts as a partial absense (see above).

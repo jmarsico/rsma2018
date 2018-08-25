@@ -36,7 +36,7 @@ Fall 2018, Carnegie Mellon University
   <tr>
     <td>Office Hours:</td>
     <td>
-		Marsico: Tuesday, 7:50pm - 9:00pm, Hunt A10.
+		Marsico: Monday, 7:50pm - 9:00pm, Hunt A10.
     </td>
     </tr>
   <tr>
@@ -54,13 +54,13 @@ Fall 2018, Carnegie Mellon University
 
 
 ## Course Content
-
+  
 * [Organization and Deliverables]({{site.baseurl}}/deliverables/documentation/)
 * [Schedule]({{site.baseurl}}/schedule/)
 * [Precedent Research]({{site.baseurl}}/precedent/)
 * [Resources]({{site.baseurl}}/resources/)
 * [Full Syllabus]({{site.baseurl}}/logistics/syllabus/)
-* [Grading]({{site.baseurl}}/logistics/grading/), [Deliverables]({{site.baseurl}}/organization/#deliverables) and [Attendance Policies]({{site.baseurl}}/logistics/attendance/)
+* [Grading]({{site.baseurl}}/logistics/grading/), [Documentation]({{site.baseurl}}/deliverables/documentation) and [Attendance Policies]({{site.baseurl}}/logistics/attendance/)
 * [Extra Credit]({{site.baseurl}}/logistics/extra_credit/)
 
 ## [Weekly Schedule]({{site.baseurl}}/schedule)
