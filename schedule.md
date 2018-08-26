@@ -63,11 +63,11 @@ title: Schedule
 | [Touchdesigner and Projection Mapping]({{site.baseurl}}/tutorials/td_projection/) |                                                                 |
 
 ##### Assignments Given
-- Precedent Research #2 - [Precedent Research](../assignments/precedent)  Due Sept 12
+- Precedent Research #2 - [Precedent Research](../assignments/precedent)  Due Sept 17
 - Project 1 - [Data Garden]({{site.baseurl}}/assignments/project_01/) Due Sep 24
 
 ##### Assignments Due
-- Precedent Research #2 - [Precedent Research](../assignments/precedent)  Due Sept 12
+
 
 
 
@@ -79,7 +79,7 @@ title: Schedule
 | Monday Sep 17                                                   | Wednesday Sep 19                                                |
 | :-------------------------------------------------------------- | :-------------------------------------------------------------- |
 | Work day [Project 1]({{site/baseurl}}/assignements/project_01/) | Work day [Project 1]({{site/baseurl}}/assignements/project_01/) |
-|                                                                 |                                                                 |
+| Precedent #2 Review                                             |                                                                 |
 
 
 
@@ -88,7 +88,7 @@ title: Schedule
 
 
 ##### Assignments Due
-
+- Precedent Research #2 - [Precedent Research](../assignments/precedent)  Due Sept 17
 
 
 
@@ -98,19 +98,22 @@ title: Schedule
 
 <a name="week5"></a>
 
-### Week 5: 
+### Week 5: Light
 
-| Monday Sep 24 | Wednesday Sep 26 |
-| :------------ | :--------------- |
-|               |                  |
+| Monday Sep 24         | Wednesday Sep 26                                                     |
+| :-------------------- | :------------------------------------------------------------------- |
+| Review Project 1      | [Touchdesigner and DMX lighting]({{site.baseurl}}/tutorials/td_dmx/) |
+| Introduction to Light |                                                                      |
 
 
 
 ##### Assignments Given
-
+- [Project 2]({{site/baseurl}}/assignements/project_02/) - Pittsburgh International Airport - Due Oct 8
+- Precedent Research #3 - [Precedent Research](../assignments/precedent)  Due Oct 1
 
 
 ##### Assignments Due
+- [Project 1]({{site/baseurl}}/assignements/project_01/) - Data Garden Due Sept 24
 
 
 
@@ -120,10 +123,10 @@ title: Schedule
 
 ### Week 6: Envisioning Connectivity for Domestic Settings
 
-| Monday Oct 1 | Wednesday Oct 3 |
-| :----------- | :-------------- |
-|              |                 |
-|              |                 |
+| Monday Oct 1                                                    | Wednesday Oct 3                                                 |
+| :-------------------------------------------------------------- | :-------------------------------------------------------------- |
+| Work day [Project 2]({{site/baseurl}}/assignements/project_02/) | Work day [Project 2]({{site/baseurl}}/assignements/project_02/) |
+| Precedent 03 Review                                             |                                                                 |
 
 
 ##### Assignments Given
@@ -131,7 +134,7 @@ title: Schedule
 
 
 ##### Assignments Due
-
+- Precedent Research #3 - [Precedent Research](../assignments/precedent)  Due Oct 1
 
 
 
@@ -141,12 +144,18 @@ title: Schedule
 
 ### Week 7: 
 
-| Monday Oct 8 | Wednesday Oct 10 |
-| :----------- | :--------------- |
-|              |                  |
+| Monday Oct 8                                                   | Wednesday Oct 10                                                         |
+| :------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| Review Project 2                                               | [Touchdesigner and Data Acquisition]({{site.baseurl}}/tutorials/td_api/) |
+| Intro to [Project 3]({{site.baseurl}}/assignments/project_03/) |                                                                          |
 
+
+##### Assignments Given
+- [Project 3]({{site.baseurl}}/assignments/project_03/) - Power Usage - Due Oct 22
+- Precedent Research #4 - [Precedent Research](../assignments/precedent) - Due Oct 15
 
 ##### Assignments Due
+- [Project 2]({{site/baseurl}}/assignements/project_02/) - Pittsburgh International Airport - Due Oct 8
 
 
 <a name="week8"></a>
@@ -154,14 +163,14 @@ title: Schedule
 ### Week 8: 
 
 
-| Monday Oct 15 | Wednesday Oct 17 |
-| :------------ | :--------------- |
-|               |                  |
-|               |                  |
-|               |                  |
+| Monday Oct 15                                                  | Wednesday Oct 17                                               |
+| :------------------------------------------------------------- | :------------------------------------------------------------- |
+| Work Day [Project 3]({{site.baseurl}}/assignments/project_03/) | Work Day [Project 3]({{site.baseurl}}/assignments/project_03/) |
+| Precedent #4 Review                                            |                                                                |
+
 
 ##### Assignments Due
-
+- Precedent Research #4 - [Precedent Research](../assignments/precedent) - Due Oct 15
 
 
 ##### Assignments Given
@@ -174,32 +183,32 @@ title: Schedule
 ### Week 9: 
 
 
-| Monday Oct 22 | Wednesday Oct 24 |
-| :------------ | :--------------- |
-|               |                  |
-|               |                  |
-|               |                  |
-
-##### Assignments Due
-
-
+| Monday Oct 22                                                                     | Wednesday Oct 24                                                |
+| :-------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
+| Project 3 Review                                                                  | [Touchdesigner and Sound]({{site.baseurl}}/tutorials/td_sound/) |
+| Intro to [Project 4]({{site.baseurl}}/assignments/project_04/) - Meditative Space |                                                                 |
 
 ##### Assignments Given
+- [Project 4]({{site.baseurl}}/assignments/project_04/) - Meditative Space - Due Nov 5
+- Precedent Research #5 - [Precedent Research](../assignments/precedent) - Due Oct 29
+  
 
+##### Assignments Due
+- [Project 3]({{site.baseurl}}/assignments/project_03/) - Power Usage - Due Oct 22
 
 <a name="week10"></a>
 
 ### Week 10: 
 
 
-| Monday Oct 29 | Wednesday Oct 31 |
-| :------------ | :--------------- |
-|               |                  |
-|               |                  |
-|               |                  |
+| Monday Oct 29                                                  | Wednesday Oct 31                                               |
+| :------------------------------------------------------------- | :------------------------------------------------------------- |
+| Review Precedent #5                                            | Work Day [Project 4]({{site.baseurl}}/assignments/project_04/) |
+| Work Day [Project 4]({{site.baseurl}}/assignments/project_04/) |                                                                |
+
 
 ##### Assignments Due
-
+- Precedent Research #5 - [Precedent Research](../assignments/precedent) - Due Oct 29
 
 
 ##### Assignments Given
@@ -211,18 +220,18 @@ title: Schedule
 ### Week 11: 
 
 
-| Monday Nov 5 | Wednesday Nov 7 |
-| :----------- | :-------------- |
-|              |                 |
-|              |                 |
-|              |                 |
+| Monday Nov 5                                                          | Wednesday Nov 7               |
+| :-------------------------------------------------------------------- | :---------------------------- |
+| Review Project 4                                                      | Final Project Ideate Exercise |
+| Intro to [Final Project]({{site.baseurl}}/assignments/final-project/) |                               |
+|                                                                       |                               |
 
 ##### Assignments Due
-
+- [Project 4]({{site.baseurl}}/assignments/project_04/) - Meditative Space - Due Nov 5
 
 
 ##### Assignments Given
-
+- Precedent Research #6 - [Precedent Research](../assignments/precedent) - Due Nov 12
 
 
 
@@ -232,11 +241,11 @@ title: Schedule
 ### Week 12: 
 
 
-| Monday Nov 12 | Wednesday Nov 14 |
-| :------------ | :--------------- |
-|               |                  |
-|               |                  |
-|               |                  |
+| Monday Nov 12                | Wednesday Nov 14 |
+| :--------------------------- | :--------------- |
+| Review Precedent Research #6 |                  |
+|                              |                  |
+|                              |                  |
 
 ##### Assignments Due
 
