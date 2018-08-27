@@ -7,6 +7,13 @@ title: Resources
 
 Suggest additions by email or on slack
 
+#### Ideate
+
+- [Equipment List](https://resources.ideate.cmu.edu/equipment/)
+- [Ideate Lending](https://resources.ideate.cmu.edu/lending/)
+- [Consumables Price List](https://resources.ideate.cmu.edu/lending/price-list/)
+- [PhysComp Lab Calendar](https://resources.ideate.cmu.edu/reservations/week.php?year=2018&month=8&day=27&area=6)
+
 #### Touchdesigner
 
 - [Touchdesigner Website](https://www.derivative.ca/)
@@ -16,10 +23,11 @@ Suggest additions by email or on slack
 #### Programming, Debugging and Testing
 
 - [Python in TD](http://www.derivative.ca/wiki088/index.php?title=Introduction_to_Python_Tutorial#Importing_Modules)
+- [Touchdesigner Example Components](http://www.derivative.ca/Forum/viewforum.php?f=22)
 
-#### Tutorials on Programming Microcontrollers and creating IOT devices
+#### Tutorials on Programming Microcontrollers
 
-- [Sparkfun Tutorials](https://learn.sparkfun.com/tutorials) incl. [Intro to Basic Electronics](https://learn.sparkfun.com/resources/3) and [Photon Development Guide](https://learn.sparkfun.com/tutorials/photon-development-guide?_ga=1.106841034.894245433.1484450339)
+- [Sparkfun Tutorials](https://learn.sparkfun.com/tutorials) incl. [Intro to Basic Electronics](https://learn.sparkfun.com/resources/3)
 
 - [AdaFruit Learning](https://learn.adafruit.com)
 
@@ -33,15 +41,13 @@ Suggest additions by email or on slack
 
 - [Arduino Programming Cheat Sheet](https://cdn.sparkfun.com/assets/f/4/9/2/2/Arduino_Cheat_Sheet-11-12-13.pdf)
 
-#### Ideate Materials
-
-- [Consumable Price List](https://resources.ideate.cmu.edu/lending/price-list/)
-
 #### Inspiration
 
-- CreativeApplications:
+- [Creative Applications Network](http://www.creativeapplications.net/)
 
-- [Internet of Useless Things](http://www.internetofuselessthings.io)
+- [Dezeen](https://www.dezeen.com/)
+
+-
 
 #### Buying Electronics, Hardware and Components
 
@@ -50,10 +56,6 @@ Suggest additions by email or on slack
 - [Sparkfun](https://www.sparkfun.com)
 
 - [DigiKey](http://www.digikey.com/)
-
-#### Consumer Connected Products
-
-#### Ambient Intelligent Toolkits
 
 #### Data and API’s
 
@@ -84,15 +86,3 @@ Suggest additions by email or on slack
 - [ART+COM](https://artcom.de/)
 - [Leo Villareal](http://villareal.net/)
 - [Studio Drift](http://www.studiodrift.com/)
-
-##### Using the Particle Framework
-
-##### Beyond These
-
-- [http://fritzing.org/home/](http://fritzing.org/home/)
-
-- [http://littlebits.cc](http://littlebits.cc)
-
-- [http://www.makeymakey.com](http://www.makeymakey.com)
-
-- [https://www.processing.org](https://www.processing.org)

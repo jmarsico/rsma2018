@@ -5,12 +5,12 @@ title: Schedule
 
 | Week (Beginning) | Summary                                                            | Assignments                                                                |
 | :--------------- | :----------------------------------------------------------------- | :------------------------------------------------------------------------- |
-| 1 (Aug 27)       | __[Introduction to Media Architecture and TouchDesigner](#week1)__ | [Project 0: Data-Driven Walkway]({{site.baseurl}}/assignments/project_00/) |
-| 2 (Sep 3)        | __[Introduction to Media Architecture and TouchDesigner](#week2)__ | [Project 0: Data-Driven Walkway]({{site.baseurl}}/assignments/project_00/) |
+| 1 (Aug 27)       | __[Introduction to Media Architecture and TouchDesigner](#week1)__ | [Project 0: Experiential Bridge]({{site.baseurl}}/assignments/project_00/) |
+| 2 (Sep 3)        | __[Introduction to Media Architecture and TouchDesigner](#week2)__ | [Project 0: Experiential Bridge]({{site.baseurl}}/assignments/project_00/) |
 | 3 (Sep 10)       | __[Private Nature - Domestic Space](#week3)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
 | 4 (Sep 17)       | __[Private Nature - Domestic Space](#week4)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
-| 5 (Sep 21)       | __[Light in Public Spaces](#week5)__                               | [Project 2 - Airpot Light]({{site.baseurl}}/assignments/project_02/)       |
-| 6 (Sep 28)       | __[Light in Public Spaces](#week6)__                               | [Project 2 - Airpot Light]({{site.baseurl}}/assignments/project_02/)       |
+| 5 (Sep 21)       | __[Light in Public Spaces](#week5)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
+| 6 (Sep 28)       | __[Light in Public Spaces](#week6)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
 | 7 (Oct 8)        | __[Low Resolution Data Visualization](#week7)__                    | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
 | 8 (Oct 15)       | __[Low Resolution Data Visualization](#week8)__                    | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
 | 9 (Oct 22)       | __[Meditative and Sacred Spaces](#week9)__                         | [Project 4 - Meditative Space]({{site.baseurl}}/assignments/project_04/)   |
@@ -70,10 +70,10 @@ title: Schedule
 
 ### Week 3: Private Nature - Domestic Space
 
-| Monday Sep 10                                                                     | Wednesday Sep 12                                                |
-| :-------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
-| Intro to [Project 1]({{site/baseurl}}/assignements/project_01/)                   | Work day [Project 1]({{site/baseurl}}/assignements/project_01/) |
-| [Touchdesigner and Projection Mapping]({{site.baseurl}}/tutorials/td_projection/) |                                                                 |
+| Monday Sep 10                                                                     | Wednesday Sep 12                                               |
+| :-------------------------------------------------------------------------------- | :------------------------------------------------------------- |
+| Intro to [Project 1]({{site/baseurl}}/assignments/project_01/)                    | Work day [Project 1]({{site/baseurl}}/assignments/project_01/) |
+| [Touchdesigner and Projection Mapping]({{site.baseurl}}/tutorials/td_projection/) |                                                                |
 
 ##### Assignments Given
 - Precedent Research #2 - [Precedent Research](../assignments/precedent)  Due Sept 17
@@ -89,10 +89,10 @@ title: Schedule
 
 ### Week 4: Private Nature - Domestic Space
 
-| Monday Sep 17                                                   | Wednesday Sep 19                                                |
-| :-------------------------------------------------------------- | :-------------------------------------------------------------- |
-| Work day [Project 1]({{site/baseurl}}/assignements/project_01/) | Work day [Project 1]({{site/baseurl}}/assignements/project_01/) |
-| Precedent #2 Review                                             |                                                                 |
+| Monday Sep 17                                                  | Wednesday Sep 19                                               |
+| :------------------------------------------------------------- | :------------------------------------------------------------- |
+| Work day [Project 1]({{site/baseurl}}/assignments/project_01/) | Work day [Project 1]({{site/baseurl}}/assignments/project_01/) |
+| Precedent #2 Review                                            |                                                                |
 
 
 
@@ -121,12 +121,12 @@ title: Schedule
 
 
 ##### Assignments Given
-- [Project 2]({{site/baseurl}}/assignements/project_02/) - Pittsburgh International Airport - Due Oct 8
+- [Project 2]({{site/baseurl}}/assignments/project_02/) - Pittsburgh International Airport - Due Oct 8
 - Precedent Research #3 - [Precedent Research](../assignments/precedent)  Due Oct 1
 
 
 ##### Assignments Due
-- [Project 1]({{site/baseurl}}/assignements/project_01/) - Data Garden Due Sept 24
+- [Project 1]({{site/baseurl}}/assignments/project_01/) - Data Garden Due Sept 24
 
 
 
@@ -136,10 +136,10 @@ title: Schedule
 
 ### Week 6: Light in Public Spaces
 
-| Monday Oct 1                                                    | Wednesday Oct 3                                                 |
-| :-------------------------------------------------------------- | :-------------------------------------------------------------- |
-| Work day [Project 2]({{site/baseurl}}/assignements/project_02/) | Work day [Project 2]({{site/baseurl}}/assignements/project_02/) |
-| Precedent 03 Review                                             |                                                                 |
+| Monday Oct 1                                                   | Wednesday Oct 3                                                |
+| :------------------------------------------------------------- | :------------------------------------------------------------- |
+| Work day [Project 2]({{site/baseurl}}/assignments/project_02/) | Work day [Project 2]({{site/baseurl}}/assignments/project_02/) |
+| Precedent 03 Review                                            |                                                                |
 
 
 ##### Assignments Given
@@ -168,7 +168,7 @@ title: Schedule
 - Precedent Research #4 - [Precedent Research](../assignments/precedent) - Due Oct 15
 
 ##### Assignments Due
-- [Project 2]({{site/baseurl}}/assignements/project_02/) - Pittsburgh International Airport - Due Oct 8
+- [Project 2]({{site/baseurl}}/assignments/project_02/) - Pittsburgh International Airport - Due Oct 8
 
 
 <a name="week8"></a>
