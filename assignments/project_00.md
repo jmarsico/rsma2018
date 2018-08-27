@@ -60,5 +60,17 @@ Google currently leases several floors in two adjacent buildings on either side 
 <img src="http://bakery-square.com/wp-content/uploads/2015/01/POT_6597-1080x400.jpg" style="max-width: 400px;"
  />
 
- <img src="{{site.baseurl}}/assets/bk_sq_01.png" style="max-width: 400px;" 
- />
+<img 
+src="{{site.baseurl}}/assets/bk_sq_01.png" 
+style="max-width: 400px;" 
+/>
+
+<img 
+src="{{site.baseurl}}/assets/bk_sq_02.png" 
+style="max-width: 400px;" 
+/>
+
+<img
+src="http://bakery-square.com/wp-content/uploads/2015/01/BakerySqr-Marsico-1.jpg"
+style="max-width: 400px;"
+/>
