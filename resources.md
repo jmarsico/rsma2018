@@ -33,7 +33,9 @@ Suggest additions by email or on slack
 
 - [Arduino Programming Cheat Sheet](https://cdn.sparkfun.com/assets/f/4/9/2/2/Arduino_Cheat_Sheet-11-12-13.pdf)
 
-#### Code Examples
+#### Ideate Materials
+
+- [Consumable Price List](https://resources.ideate.cmu.edu/lending/price-list/)
 
 #### Inspiration
 

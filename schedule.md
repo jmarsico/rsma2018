@@ -24,11 +24,13 @@ title: Schedule
 | :------------------------------------------------------------------------ | :------------------------------------------------------------------------------ |
 | General Introduction to the course.                                       | [Introduction to TouchDesigner framework]({{site.baseurl}}/tutorials/td_intro/) |
 | Introduction to Media Architecture                                        | Class discussion - Precedent Research                                           |
-| [Project 0: Data-Driven Walkway]({{site.baseurl}}assignments/project_00/) |                                                                                 |
+| [Project 0: Data-Driven Walkway]({{site.baseurl}}/assignments/project_00/) |                                                                                 |
 
 ##### Assignments Given
 
 - Precedent Research #1 - [Precedent Research](../assignments/precedent)  Due Aug 29
+- ["Get To Know You" form](https://goo.gl/forms/rpmuKYmKeJptNUSb2) Due Aug 29
+- Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 29
 - Project 0 - [Experiential Bridge]({{site.baseurl}}/assignments/project_00/) Due Sep 5
 
 ##### Assignments Due
@@ -224,7 +226,6 @@ title: Schedule
 | :-------------------------------------------------------------------- | :---------------------------- |
 | Review Project 4                                                      | Final Project Ideate Exercise |
 | Intro to [Final Project]({{site.baseurl}}/assignments/final-project/) |                               |
-|                                                                       |                               |
 
 ##### Assignments Due
 - [Project 4]({{site.baseurl}}/assignments/project_04/) - Meditative Space - Due Nov 5
@@ -244,8 +245,7 @@ title: Schedule
 | Monday Nov 12                | Wednesday Nov 14 |
 | :--------------------------- | :--------------- |
 | Review Precedent Research #6 |                  |
-|                              |                  |
-|                              |                  |
+
 
 ##### Assignments Due
 
@@ -266,8 +266,6 @@ title: Schedule
 | Monday Nov 19 | Wednesday Nov 21 |
 | :------------ | :--------------- |
 |               |                  |
-|               |                  |
-|               |                  |
 
 ##### Assignments Due
 
@@ -286,8 +284,7 @@ title: Schedule
 | Monday Nov 26 | Wednesday Nov 28 |
 | :------------ | :--------------- |
 |               |                  |
-|               |                  |
-|               |                  |
+
 
 ##### Assignments Due
 
@@ -307,8 +304,7 @@ title: Schedule
 | Monday Dec 3 | Wednesday Dec 5 |
 | :----------- | :-------------- |
 |              |                 |
-|              |                 |
-|              |                 |
+
 
 
 
@@ -316,6 +312,6 @@ title: Schedule
 <a name="week16"></a>
 
 ### Week 16: Final Showcase
-| Monday Dec 10 | Wednesday Dec 12 |
-| :------------ | :--------------- |
-|               |                  |
+| Monday Dec 10          | Wednesday Dec 12 |
+| :--------------------- | :--------------- |
+| Final Project Showcase |                  |
