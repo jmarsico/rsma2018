@@ -4,7 +4,7 @@ title: "Intro to TouchDesigner"
 ---
 
 <img
-src="({{site.baseurl}}/assets/touchdesigner.png)
+src="({{site.baseurl}}/assets/touchdesigner.png)"
 style="max-width: 400px;"
 />
 
