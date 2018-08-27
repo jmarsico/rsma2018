@@ -33,7 +33,7 @@ Data in Touchdesigner can be confusing. Raw data (tables, lists, collections) is
 Chops usually boil all forms of data into two dimensions: samples and channels. If you imagine a spreadsheet of data, you could potentially store that data in a CHOP in which each row of the spreadsheet is a _sample_ and each column is a _channel_ or VICE VERSA. This makes more sense when you think of a streaming signal. Take a look at the image below:
 
 <img
-src="({{site.baseurl}}/assets/td_data.png)
+src="({{site.baseurl}}/assets/td_data.png)"
 style="max-width: 400px;"
 />
 

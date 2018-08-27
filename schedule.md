@@ -38,16 +38,18 @@ title: Schedule
 
 ##### Assignments Given
 
-- Precedent Research #1 - [Precedent Research](../assignments/precedent)  Due Aug 29
+- Precedent Research #1 - [Precedent Research]({{site.baseurl}}/deliverables/precedent)  Due Aug 29
 - ["Get To Know You" form](https://goo.gl/forms/rpmuKYmKeJptNUSb2) Due Aug 29
 - Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 29
 - Sign up for the [Gallery]({{site.gallery}})
 - Project 0 - [Experiential Bridge]({{site.baseurl}}/assignments/project_00/) Due Sep 5
+- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2018/shared_invite/enQtNDIyNzA0MzM5MDczLTFiNDNjNzE5NWU1ZmU1NjgwZTFjOWUyMTRjYTMzOGFmNjM1N2FhMGZhNDM1OTRiMjQyMDA5MWJhN2U5YjM2ODE)  Due Aug 29
 
 ##### Assignments Due
 - ["Get To Know You" form](https://goo.gl/forms/rpmuKYmKeJptNUSb2) Due Aug 29
 - Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 29
 - Precedent Research #1 [Precedent Research]({{site.baseurl}}/deliverables/precedent/) Due Aug 29
+- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2018/shared_invite/enQtNDIyNzA0MzM5MDczLTFiNDNjNzE5NWU1ZmU1NjgwZTFjOWUyMTRjYTMzOGFmNjM1N2FhMGZhNDM1OTRiMjQyMDA5MWJhN2U5YjM2ODE)  Due Aug 29
 
 <a name="week2"></a>
 
