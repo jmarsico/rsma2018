@@ -3,14 +3,24 @@ layout: page
 title: Schedule
 ---
 
-| Week (Beginning) | Summary                                                  | Assignments                                                                                             |
-| :--------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
-| 1 (Aug 27)       | __[Introduction to IoT and Connected Products](#week1)__ | [Mini Assignment - Product Hunt](../assignments/product-hunt)<br/> [Readings #1](../readings/#reading1) |
-
-
-
-<iframe src="https://calendar.google.com/calendar/embed?src=h6hilhcjojbg10f0fipcsv9l5o%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+| Week (Beginning) | Summary                                                            | Assignments                                                                |
+| :--------------- | :----------------------------------------------------------------- | :------------------------------------------------------------------------- |
+| 1 (Aug 27)       | __[Introduction to Media Architecture and TouchDesigner](#week1)__ | [Project 0: Data-Driven Walkway]({{site.baseurl}}/assignments/project_00/) |
+| 2 (Sep 3)        | __[Introduction to Media Architecture and TouchDesigner](#week2)__ | [Project 0: Data-Driven Walkway]({{site.baseurl}}/assignments/project_00/) |
+| 3 (Sep 10)       | __[Private Nature - Domestic Space](#week3)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
+| 4 (Sep 17)       | __[Private Nature - Domestic Space](#week4)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
+| 5 (Sep 21)       | __[Light in Public Spaces](#week5)__                               | [Project 2 - Airpot Light]({{site.baseurl}}/assignments/project_02/)       |
+| 6 (Sep 28)       | __[Light in Public Spaces](#week6)__                               | [Project 2 - Airpot Light]({{site.baseurl}}/assignments/project_02/)       |
+| 7 (Oct 8)        | __[Low Resolution Data Visualization](#week7)__                    | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
+| 8 (Oct 15)       | __[Low Resolution Data Visualization](#week8)__                    | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
+| 9 (Oct 22)       | __[Meditative and Sacred Spaces](#week9)__                         | [Project 4 - Meditative Space]({{site.baseurl}}/assignments/project_04/)   |
+| 10 (Oct 29)      | __[Meditative and Sacred Spaces](#week10)__                        | [Project 4 - Meditative Space]({{site.baseurl}}/assignments/project_04/)   |
+| 11 (Nov 5)       | __[Final Project](#week11)__                                       | Final Project - TBD                                                        |
+| 12 (Nov 12)      | __[Final Project](#week12)__                                       | Final Project - TBD                                                        |
+| 13 (Nov 19)      | __[Final Project](#week13)__                                       | Final Project - TBD                                                        |
+| 14 (Nov 26)      | __[Final Project](#week14)__                                       | Final Project - TBD                                                        |
+| 15 (Dec 3)       | __[Final Project](#week15)__                                       | Final Project - TBD                                                        |
+| 16 (Dec 10)      | __[Final Project](#week16)__                                       | Final Project - TBD                                                        |
 
 
 
@@ -20,10 +30,10 @@ title: Schedule
 
 ### Week 1: Introduction to Media Architecture
 
-| Monday Aug 27                                                             | Wednesday Aug 29                                                                |
-| :------------------------------------------------------------------------ | :------------------------------------------------------------------------------ |
-| General Introduction to the course.                                       | [Introduction to TouchDesigner framework]({{site.baseurl}}/tutorials/td_intro/) |
-| Introduction to Media Architecture                                        | Class discussion - Precedent Research                                           |
+| Monday Aug 27                                                              | Wednesday Aug 29                                                                |
+| :------------------------------------------------------------------------- | :------------------------------------------------------------------------------ |
+| General Introduction to the course.                                        | [Introduction to TouchDesigner framework]({{site.baseurl}}/tutorials/td_intro/) |
+| Introduction to Media Architecture                                         | Class discussion - Precedent Research                                           |
 | [Project 0: Data-Driven Walkway]({{site.baseurl}}/assignments/project_00/) |                                                                                 |
 
 ##### Assignments Given
@@ -76,7 +86,7 @@ title: Schedule
 
 <a name="week4"></a>
 
-### Week 4: 
+### Week 4: Private Nature - Domestic Space
 
 | Monday Sep 17                                                   | Wednesday Sep 19                                                |
 | :-------------------------------------------------------------- | :-------------------------------------------------------------- |
@@ -100,7 +110,7 @@ title: Schedule
 
 <a name="week5"></a>
 
-### Week 5: Light
+### Week 5: Light in Public Spaces
 
 | Monday Sep 24         | Wednesday Sep 26                                                     |
 | :-------------------- | :------------------------------------------------------------------- |
@@ -123,7 +133,7 @@ title: Schedule
 
 <a name="week6"></a>
 
-### Week 6: Envisioning Connectivity for Domestic Settings
+### Week 6: Light in Public Spaces
 
 | Monday Oct 1                                                    | Wednesday Oct 3                                                 |
 | :-------------------------------------------------------------- | :-------------------------------------------------------------- |
@@ -144,7 +154,7 @@ title: Schedule
 
 <a name="week7"></a>
 
-### Week 7: 
+### Week 7: Low Resolution Data Visualization
 
 | Monday Oct 8                                                   | Wednesday Oct 10                                                         |
 | :------------------------------------------------------------- | :----------------------------------------------------------------------- |
@@ -162,7 +172,7 @@ title: Schedule
 
 <a name="week8"></a>
 
-### Week 8: 
+### Week 8: Low Resolution Data Visualization
 
 
 | Monday Oct 15                                                  | Wednesday Oct 17                                               |

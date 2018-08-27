@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 date: 2018-08-20
 title: Syllabus
 ---
