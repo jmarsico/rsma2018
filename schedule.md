@@ -41,6 +41,7 @@ title: Schedule
 - Precedent Research #1 - [Precedent Research](../assignments/precedent)  Due Aug 29
 - ["Get To Know You" form](https://goo.gl/forms/rpmuKYmKeJptNUSb2) Due Aug 29
 - Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 29
+- Sign up for the [Gallery]({{site.gallery}})
 - Project 0 - [Experiential Bridge]({{site.baseurl}}/assignments/project_00/) Due Sep 5
 
 ##### Assignments Due
