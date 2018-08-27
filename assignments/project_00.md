@@ -57,5 +57,8 @@ Google currently leases several floors in two adjacent buildings on either side 
 ![]({{https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiurYHEx43dAhWqT98KHY1IC0gQjRx6BAgBEAU&url=http%3A%2F%2Fbakery-square.com%2Fleasing%2F&psig=AOvVaw0EF6uMUp7-erG8NJL2NPed&ust=1535470504382016}})
 
 
-<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiurYHEx43dAhWqT98KHY1IC0gQjRx6BAgBEAU&url=http%3A%2F%2Fbakery-square.com%2Fleasing%2F&psig=AOvVaw0EF6uMUp7-erG8NJL2NPed&ust=1535470504382016" style="max-width: 400px;"
+<img src="http://bakery-square.com/wp-content/uploads/2015/01/POT_6597-1080x400.jpg" style="max-width: 400px;"
+ />
+
+ <img src="{{site.baseurl}}/assets/bk_sq_01.png" style="max-width: 400px;" 
  />
