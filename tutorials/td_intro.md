@@ -8,6 +8,8 @@ src="{{site.baseurl}}/assets/touchdesigner.png"
 style="max-width: 600px;" 
 />
 
+> Download the [chop_dat_data.tox](https://drive.google.com/open?id=1F71l2Xh94vETsBxO1qEyLFkx1nxFazj7) and [intro_td.toe](https://drive.google.com/open?id=1tMGxQgNpjmRVDqkwoHmYm9SnjyOkx7BW) files from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive.
+
 ## What is TouchDesigner?
 
 TouchDesigner is a node-based programming platform used primarily for visual content generation and delivery. From the [Derivative Website](https://www.derivative.ca/):
@@ -27,6 +29,13 @@ Working with the TouchDesigner interface, getting started.
 ## Operators
 
 Projects in TouchDesigner are called "networks" and consist of several types of functional nodes called [operators](https://docs.derivative.ca/index.php?title=Operator).
+
+COMPs - Components - Object components (3D objects), Panel components (2D UI gadgets), and miscellaneous components. Components contain other operators.
+TOPs - Texture Operators - all 2D image operations.
+CHOPs - Channel Operators - motion, audio, animation, control signals.
+SOPs - Surface Operators - 3D points, polygons and other 3D "primitives".
+DATs - Data Operators - ASCII text as plain text, scripts, XML, or organized in tables of cells.
+MATs - Material Operators - materials and shaders.
 
 Each operator has specific [parameters](https://docs.derivative.ca/Parameter) and [flags](https://docs.derivative.ca/Flag) that control different aspects of that operator's functionality.
 
@@ -53,16 +62,16 @@ Next to that CHOP is a `chopto` DAT, which takes data from a CHOP and populates 
 
 You can connect operators together by dragging a wire from the output of one operator (on the right hand side of the operator) to the input of another operator (on the left of each operator). Note, generators usually do not have inputs. This type of connection signifies data flow. In most cases, data is created in a generator and then passed into a series of filters to create the desired effect, motion, or data.
 
-### References
+## References
 
 TouchDesigner also allows you to use each operator's parameters, channels and data to drive parameters in other operators using _references_.
+
+#### Channel References
 
 <img 
 src="{{site.baseurl}}/assets/td_chan_reference.png" 
 style="max-width: 600px;" 
 />
-
-#### Channel References
 
 In the image above, we are controlling the color of the `constant` TOP, with _references_ to the three channels in the `null` CHOP. The syntax for performing this kind of _channel reference_ is:
 
@@ -70,15 +79,17 @@ In the image above, we are controlling the color of the `constant` TOP, with _re
 
 You can also use the _index_ of the channel you want instead of the name. Another technique for referencing a channel is to click on the "Active View" button on an operator (this is the star looking button on the bottom right of each operator), then clicking an dragging the channel onto the parameter that you want to modify.
 
+#### Parameter References
+
 <img 
 src="{{site.baseurl}}/assets/td_par_reference.png" 
 style="max-width: 600px;" 
 />
-
-#### Parameter References
 
 In the image above, we are controlling the effect and width of filter2 with _parameter references_ to filter1. The syntax for this is:
 
 `op('NAME_OF_OPERATOR').par.NAME_OF_PARAMETER`
 
 You can also reference parameters by clicking on the operator that you want to reference, clicking the `+` symbol next to the parameter that you want to reference, and then right-clicking the abbreviated parameter name. This will bring up a small menu in which you can choose to "copy parameter". Next, click on the parameter in the target operator and left click to bring up a menu. Select "paste references" and your parameter should be properfly referenced.
+
+## Importing
