@@ -29,7 +29,7 @@ Suggest additions by email or on slack
 
 #### TouchDesigner Example Repos
 
-- [Matthew Ragan Forum Examples](https://github.com/raganmd/**td_fb_forum_examples)
+- [Matthew Ragan Forum Examples](https://github.com/raganmd/td_fb_forum_examples)
 - [nVoid Introduction to TouchDesigner](https://github.com/nVoid/Introduction-to-touchdesigner)
 - [chimanaco practice networks](https://github.com/chimanaco/touchdesigner-practice)
   - [accompanying instagram feed](https://www.instagram.com/chimanaco/)
