@@ -14,13 +14,20 @@ Suggest additions by email or on slack
 - [Consumables Price List](https://resources.ideate.cmu.edu/lending/price-list/)
 - [PhysComp Lab Calendar](https://resources.ideate.cmu.edu/reservations/week.php?year=2018&month=8&day=27&area=6)
 
-#### Touchdesigner Documentation
+#### TouchDesigner Documentation
 
-- [Touchdesigner Website](https://www.derivative.ca/)
-- [Touchdesigner 099 Wiki](https://docs.derivative.ca/Main_Page)
+- [TouchDesigner Forum](https://www.derivative.ca/Forum/)
+- [TouchDesigner Website](https://www.derivative.ca/)
+- [TouchDesigner 099 Wiki](https://docs.derivative.ca/Main_Page)
 - [Operators](https://docs.derivative.ca/Operator)
 
-#### Touchdesigner Example Repos
+#### TouchDesigner Tutorials
+
+- [Matthew Ragan Teaching Resources](https://matthewragan.com/teaching-resources/touchdesigner/)
+- [Yale Workshop Intro](https://matthewragan.com/touchdesigner-workshop-yale-2017/)
+- [AME 3940](https://matthewragan.com/teaching-resources/touchdesigner/ame-394-compositional-and-computational-principles-for-media-arts/)
+
+#### TouchDesigner Example Repos
 
 - [Matthew Ragan Forum Examples](https://github.com/raganmd/**td_fb_forum_examples)
 - [nVoid Introduction to TouchDesigner](https://github.com/nVoid/Introduction-to-touchdesigner)
