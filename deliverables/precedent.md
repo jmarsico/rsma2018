@@ -39,7 +39,7 @@ You'll submit your precedents on Slack. Each discovery should be _submitted sepa
 
 To submit your work:
 
-- Open Slack and navigate to the [#discoveries]({{site.slack}}/archives/discoveries) channel
+- Open Slack and navigate to the [#precedent]({{site.slack}}/archives/discoveries) channel
 - In the text box (bottom), click the `+` on the left hand side. Choose the option to 'Create a new post'
 - In the post editor, the title should match the name of the project
 - Add some text about your discovery. This should start with: a) link(s) to the project website b) a list of original creators/artists, c) relevant images or embed videos (see below).

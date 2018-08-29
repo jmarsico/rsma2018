@@ -101,3 +101,7 @@ You can also share work with others by exporting a `.tox` file. To do this, crea
 ## External Editor
 
 Futher along in the course you may want to use DAT operators to create and run custom Python scripts or GLSL shaders. You can set up TouchDesigner to use an external text editor (something like VSCode or Atom). To do this, open the "Preferences" window from either the File menu or the TouchDesigner menu. Select the "DAT" tab and click on the folder icons next to Text Editor and Table Editor.
+
+## Resources
+
+Check out the [Resources]({{site.baseurl}}/resources/) page for links to TouchDesigner tutorials and example repositories.

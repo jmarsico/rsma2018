@@ -50,7 +50,7 @@ To guarantee you pass the assignment, make sure you have:
 
 _<sup>*</sup> Incidates that if you do not meet these criteria you will immediately fail the assignment._
 
-More information can be found in the [Grading, Feedback and Policies]({{site.baseurl}}/2016/08/22/grading#discoveries) section
+More information can be found in the [Grading, Feedback and Policies]({{site.baseurl}}/2016/08/22/grading#precedent) section
 
 <hr/>
 
