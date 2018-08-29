@@ -92,4 +92,12 @@ In the image above, we are controlling the effect and width of filter2 with _par
 
 You can also reference parameters by clicking on the operator that you want to reference, clicking the `+` symbol next to the parameter that you want to reference, and then right-clicking the abbreviated parameter name. This will bring up a small menu in which you can choose to "copy parameter". Next, click on the parameter in the target operator and left click to bring up a menu. Select "paste references" and your parameter should be properfly referenced.
 
-## Importing
+## Importing from Examples
+
+TouchDesigner will only allow you to have one project open at a time, making copying and pasting from example projects difficult. Many tutorials will include `.tox` files, which can be dropped directly into your project from the desktop.
+
+You can also share work with others by exporting a `.tox` file. To do this, create a new "Basic COMP" and copy/paste all of the relevant network into that COMP. Then you can right-click on the COMP and select "Save Compontent .tox".
+
+## External Editor
+
+Futher along in the course you may want to use DAT operators to create and run custom Python scripts or GLSL shaders. You can set up TouchDesigner to use an external text editor (something like VSCode or Atom). To do this, open the "Preferences" window from either the File menu or the TouchDesigner menu. Select the "DAT" tab and click on the folder icons next to Text Editor and Table Editor.
