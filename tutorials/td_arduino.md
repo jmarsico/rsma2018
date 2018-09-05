@@ -167,12 +167,12 @@ In the firmata COMP's panel, go to the `Pin Modes` tab and change Pin 10 to `PWM
 
 <img 
 src="{{site.baseurl}}/assets/firmata_pin10.png" 
-style="max-width: 600px;" 
+style="max-width: 400px;" 
 />
 
 <img 
 src="{{site.baseurl}}/assets/firmata_ledref.png" 
-style="max-width: 600px;" 
+style="max-width: 400px;" 
 />
 
 
@@ -180,8 +180,8 @@ style="max-width: 600px;"
 To get data from the Arduino, let's connect a Null CHOP to the top output of the firmata COMP. This should show us our incoming analog values. Create a circle TOP. In the TOP's panel, use a reference to the first channel of the output CHOP to change the radius of the circle.
 
 <img 
-src="{{site.baseurl}}/assets/firmata_topradius.png" 
-style="max-width: 600px;" 
+src="{{site.baseurl}}/assets/firmata_top_radius.png" 
+style="max-width: 400px;" 
 />
 
 
