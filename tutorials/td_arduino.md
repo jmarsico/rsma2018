@@ -8,7 +8,7 @@ src="{{site.baseurl}}/assets/arduino_board.png"
 style="max-width: 600px;" 
 />
 
-> Download the [td_arduino.toe](xxxxx) file from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive.
+> Download the [td_firmata.toe](https://drive.google.com/open?id=1fpb0Tx8e4MGBto8MNg_1xqz1CLHNZh4k) file from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive.
 
 > Download and install the [Arduino IDE](https://www.arduino.cc/en/Main/Software). Select the correct download for your operating system under the "Download the Arduino IDE" section.
 
