@@ -124,10 +124,64 @@ style="max-width: 600px;"
 The `firmata` COMP has two outputs that we will use to extract data from the Arduino. There are several outputs on this COMP, two of them are green and the rest are purple. The green color means that they should connect to a CHOP and the purple color means the output should connect to a DAT. We want to see the data in CHOP form. Connect a `Null CHOP` to the first (top) green output and another `Null CHOP` to the second green output. The first green output tells us the values coming in off of the Analog Pins and the second green output tells us the values coming in off of the Digital Pins that have been set to `Input(1 bit)`. 
 
 
-
 ## Test Circuit
+
+
+### Setting up the Circuit
 
 <img 
 src="{{site.baseurl}}/assets/firmata_circuit.png" 
 style="max-width: 600px;" 
 />
+
+For this circuit you will need:
+
+1. An Arduino
+2. A breadboard
+3. An LED
+4. A 110 Ohm resistor 
+5. A potentiometer
+6. hook-up wires
+
+Using the components above, create the circuit in the image. Make sure all of your wires are connected correctly. 
+
+**Pro Tip:** LEDs are **polarized** meaning they only allow electricity to flow in one directly. If you connect it the wrong way, it might burn out. LEDs often have a small notch on the side of the plastic cover. The notch indicates the "cathode" or the side that connects to ground.
+
+Some things to note here: We have connected the potentiometer to analog pin `A0` on the Arduino and we have connected the LED to digital pin `10` on the arduino. 
+
+
+### Setting up TouchDesigner firmata Panel
+
+<img 
+src="{{site.baseurl}}/assets/firmata_network.png" 
+style="max-width: 600px;" 
+/>
+
+Set up a network in Touchdesigner that looks like the one above. We have the following operators:
+
+1. LFO CHOP
+2. Math CHOP - set the range (from -1 to 1) and (to 0 to 1)
+3. Null CHOP - rename this null CHOP to `ledPin`
+
+In the firmata COMP's panel, go to the `Pin Modes` tab and change Pin 10 to `PWM(8 bit)`. Next, go to the `Pin Values` tab and make a reference to the single channel in the `ledPin` CHOP.  
+
+<img 
+src="{{site.baseurl}}/assets/firmata_pin10.png" 
+style="max-width: 600px;" 
+/>
+
+<img 
+src="{{site.baseurl}}/assets/firmata_ledref.png" 
+style="max-width: 600px;" 
+/>
+
+
+
+To get data from the Arduino, let's connect a Null CHOP to the top output of the firmata COMP. This should show us our incoming analog values. Create a circle TOP. In the TOP's panel, use a reference to the first channel of the output CHOP to change the radius of the circle.
+
+<img 
+src="{{site.baseurl}}/assets/firmata_topradius.png" 
+style="max-width: 600px;" 
+/>
+
+
