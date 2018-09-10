@@ -3,9 +3,11 @@ layout: subpage-detailed
 title: "Project 1: Data Garden"
 ---
 
+<iframe src="https://player.vimeo.com/video/115082758?color=fffffff&title=0&byline=0&portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 #### Due: Monday September 24, 6:30pm before class. No late work.
 
-#### Submit to: [RSMA 2018: Project 01](http://ideate.xsead.cmu.edu/gallery/pools/projec-01-data-garden) and [Canvas Project 01](https://canvas.cmu.edu/courses/6049/assignments/100772)
+#### Submit to: Groups submit one post to [RSMA 2018: Project 01](http://ideate.xsead.cmu.edu/gallery/pools/projec-01-data-garden) and each student submits a link to that post on [Canvas Project 01](https://canvas.cmu.edu/courses/6049/assignments/100772), along with a few sentences describing their role and contributions in the group project.
 
 # Introduction
 
@@ -31,7 +33,7 @@ Sam and Dale Griffin are interested in a permanent dynamic installation for thei
 
 # Deliverables
 
-Groups should develop a strong "pitch" to show to the client. This pitch does not need to be a fully-functional prototype, but a collection of physical, visual and written parts that will fully convey the concept and general look and feel of the idea. This collection of parts should include:
+Groups should develop a strong pitch to sell your concept to the client. This pitch does not need to be a fully-functional prototype, but a collection of physical, visual and written parts that will fully convey the concept and general look and feel of the idea. This collection of parts should include:
 
 - A well-edited video of content projected on example surfaces (plant life, sculpture, other surface...) relevant to the surfaces at the home.
 - A diagram showing how the system will work
