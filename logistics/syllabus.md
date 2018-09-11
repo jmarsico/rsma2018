@@ -40,7 +40,7 @@ title: Syllabus
     <td>
 		Marsico: Monday 7:50PM-9:00PM, Hunt A10
 		<br/>
-		Mustakos: TBD</td>
+		Mustakos: Tuesday 11:00AM - 12:00PM, Hunt A10</td>
   </tr>
 </table>
 
