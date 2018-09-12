@@ -72,10 +72,10 @@ title: Schedule
 
 ### Week 3: Private Nature - Domestic Space
 
-| Monday Sep 10                                                  | Wednesday Sep 12                                                                  |
-| :------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
-| Intro to [Project 1]({{site/baseurl}}/assignments/project_01/) | Work day [Project 1]({{site/baseurl}}/assignments/project_01/)                    |
-| [Precedent Review - Vocabulary]({{site/baseurl}}/exercises/precedent_review/)| [Touchdesigner and Projection Mapping]({{site.baseurl}}/tutorials/td_projection/) |
+| Monday Sep 10                                                                 | Wednesday Sep 12                                                                       |
+| :---------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
+| Intro to [Project 1]({{site/baseurl}}/assignments/project_01/)                | Work day [Project 1]({{site/baseurl}}/assignments/project_01/)                         |
+| [Precedent Review - Vocabulary]({{site/baseurl}}/exercises/precedent_review/) | [TouchDesigner + Projection Mapping]({{site.baseurl}}/tutorials/td_projectionMapping/) |
 
 ##### Assignments Given
 - Precedent Research #2 Active Nature - [Precedent Research](../assignments/precedent)  Due Sept 17
