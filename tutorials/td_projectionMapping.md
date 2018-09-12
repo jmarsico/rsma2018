@@ -33,6 +33,8 @@ In TouchDesigner, open the kantanMapper window and select the "Window Options" b
 
 ### KantanMapper Setup
 
+KantanMapper is a fairly straightforward tool, but its usage isn't particularly intuitive. The steps below should help you get up and running with a basic projection mapping setup.
+
 <img 
 src="{{site.baseurl}}/assets/kantan_palette.png" 
 style="max-height: 600px;" 
@@ -74,3 +76,7 @@ style="max-width: 600px;"
 />
 
 Here, you can select your region of interest. Any content within the selected region will be crammed into your surface, so be wary of unwanted warping. If you want the exact shape of the surface to act as a mask on your content, select the "set as mask" option.
+
+You can create new surfaces by clicking on the rectangle or freeform icons. In freeform mode, you can essentially draw around the physical object you want to map to. Along with drawing inside the kantanWindow, you can also move your mouse over to the actual projector and draw directly through the projector display, on the actual physical object. You can always go back and select a surface to modify its corner or bezier pins.
+
+At this point, you are ready to go. If you use `null` TOPs as your input textures, you can essentially change whatever content you want and your mappings should stay the same.
