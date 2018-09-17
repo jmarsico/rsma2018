@@ -41,7 +41,7 @@ Fall 2018, Carnegie Mellon University
     <td>
     </td>
     <td>
-    Mustakos: TBD
+    Mustakos: Tuesday, 11:00am - 12:00pm, Hunt A10.
     </td>
   </tr>
 </table>
