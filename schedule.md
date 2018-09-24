@@ -104,7 +104,7 @@ title: Schedule
 
 
 ##### Assignments Due
-- Precedent Research #2 - [Precedent Research](../assignments/precedent)  Due Sept 17
+- Precedent Research #2 - [Precedent Research]({{site/baseurl}}/deliverables/precedent/)  Due Sept 17
 
 
 
@@ -119,13 +119,14 @@ title: Schedule
 | Monday Sep 24         | Wednesday Sep 26                                                     |
 | :-------------------- | :------------------------------------------------------------------- |
 | Review Project 1      | [Touchdesigner and DMX lighting]({{site.baseurl}}/tutorials/td_dmx/) |
-| Introduction to Light |                                                                      |
+| [Animation Excercise]({{site.baseurl}}/exercises/animation_game/) |                                  |
+| Intro to Project #3 |   |
 
 
 
 ##### Assignments Given
 - [Project 2]({{site/baseurl}}/assignments/project_02/) - Pittsburgh International Airport - Due Oct 8
-- Precedent Research #3 - [Precedent Research](../assignments/precedent)  Due Oct 1
+- Precedent Research #3 - Color Palette [Precedent Research]({{site/baseurl}}/deliverables/precedent/)  Due Oct 1
 
 
 ##### Assignments Due
@@ -150,7 +151,7 @@ title: Schedule
 
 
 ##### Assignments Due
-- Precedent Research #3 - [Precedent Research](../assignments/precedent)  Due Oct 1
+- Precedent Research #3 - [Precedent Research]({{site/baseurl}}/deliverables/precedent/)  Due Oct 1
 
 
 
