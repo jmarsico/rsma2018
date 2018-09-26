@@ -3,15 +3,17 @@ layout: subpage
 title: "TouchDesigner, Pixelmapping + DMX"
 ---
 
+
+> Download the [td_pixelmapper.toe](https://drive.google.com/open?id=1S5zl5uwxU_jjYJTudMX80cOR2JxKddac) file from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive. 
+
+> Download the [pixelMapper.tox](https://drive.google.com/open?id=1KJCrY-0_17tAk82lKiwXTHT0AgbnvB5c) component from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive.
+
+> Download and install the PixLite Assistant Software for [macOS](https://itunes.apple.com/us/app/advatek-assistant/id990140692?ls=1&mt=12) or [Windows](https://www.advateklights.com/download/928/)
+
 <img 
 src="{{site.baseurl}}/assets/td_pixlite_diagram.png" 
 style="max-width: 600px;" 
 />
-
-> Download the [td_pixelmapper.toe](xxxx) file from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive. 
-
-> Download and install the PixLite Assistant Software for [macOS](https://itunes.apple.com/us/app/advatek-assistant/id990140692?ls=1&mt=12) or [Windows](https://www.advateklights.com/download/928/)
-
 
 ## What is DMX?
 
@@ -53,4 +55,68 @@ The LED strands that we are using are addressed sequentially, starting from the 
 
 
 
+## Pixel Mapping in TouchDesigner
+The goal of this tutorial is to understand one method for transferring video content (live, prerecorded, generated) to physical LED "pixels" in physical space. We want to "map" the video content to the pixels, retaining the motion of the video by sampling the video at points relative to the spacing and arrangement of the physical layout of the pixels. To do this, we will follow these steps:
+
+1. Export polyline geometry in the OBJ format. Each point of the polyline corresponds to an LED pixel location.
+2. Import OBJ to TouchDesigner and use the locations of the vertices to sample video.
+3. Transform color sampling data to DMX data
+4. Send DMX over a network to a PixLite controller
+5. Set up a PixLite controller to listen to DMX and communicate with our addressable LEDs.
+
+This tutorial will not cover step 1. For best results:
+1. always export your polyline with positive coordinates. 
+2. Before exporting, place your geometry as close to the origin (0,0) as possible.
+3. Work in the XY plane. 
+4. I like to make (but not export) a bounding box of my polyline geometry to better understand the dimensions of my geometry (total width and height of geometry).
+
+Steps 3 and 4 are taken care of in the [pixelMapper.tox](https://drive.google.com/open?id=1KJCrY-0_17tAk82lKiwXTHT0AgbnvB5c).
+
+
+## Using the pixelMapper TOX Component
+
+<img 
+src="{{site.baseurl}}/assets/td_pixmapp_comp.png" 
+style="max-width: 600px;" 
+/>
+
+This custom component has two inputs:
+- SOP input for linking your imported OBJ pixel locations
+- TOP input for linking your source texture/video content
+
+And one output
+- TOP output that allows you to preview or simulate what the lights will look like after mapping.
+
+To start, create a `filein` SOP and, in the Parameters pane, click the `+` button to choose the correct OBJ file from your computer. Link this SOP to the SOP input on the pixelMapper COMP.
+
+Next, create a simple TOP (i like to use my webcam to test) and connect that to the TOP input of the pixelMapper COMP. 
+
+Finally, create a `null` TOP and connect it to the output of the pixelMapper COMP. 
+
+Lets look the Parameters of the pixelMapper COMP:
+
+<img 
+src="{{site.baseurl}}/assets/td_pixmap_params.png" 
+style="max-width: 600px;" 
+/>
+
+`active` - this turns the active sending of DMX on and off
+`universe` - this is the DMX universe that we want to use (more on this later)
+`width` - total width of input geometry
+`height` - total height of input geometry
+`camZoom`, `camTransX`, `camTransY` - move the preview camera around to see everything. these do not affect the LED mappings.
+
+The most important parameters here are `width` and `height`. For these, enter the total height and total width of geometry that you've imported.
+
+
+## Setting up the PixLite Controller
+If you want to get a deeper understanding of the PixLite Controller, have a look at the [manual](https://www.advateklights.com/resources/download-info/pixlite-4-rev-1-2-manual/).
+
+### Physical Setup
+
+**Parts**:
+1. Variable voltage power supply
+2. PixLite controller
+3. Ethernet cable
+4. LED strand
 
