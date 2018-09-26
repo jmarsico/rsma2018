@@ -8,7 +8,7 @@ title: "TouchDesigner, Pixelmapping + DMX"
 
 > Download the [pixelMapper.tox](https://drive.google.com/open?id=1KJCrY-0_17tAk82lKiwXTHT0AgbnvB5c) component from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive.
 
-> Download and install the PixLite Assistant Software for [macOS](https://itunes.apple.com/us/app/advatek-assistant/id990140692?ls=1&mt=12) or [Windows](https://www.advateklights.com/download/928/)
+> Download and install the Advatek Assistant Software for [macOS](https://itunes.apple.com/us/app/advatek-assistant/id990140692?ls=1&mt=12) or [Windows](https://www.advateklights.com/download/928/)
 
 <img 
 src="{{site.baseurl}}/assets/td_pixlite_diagram.png" 
@@ -167,7 +167,7 @@ style="max-width: 600px;"
 />
 
 #### PixLite Setup
-You should have already downloaded and installed the PixLite Assistant Software for [macOS](https://itunes.apple.com/us/app/advatek-assistant/id990140692?ls=1&mt=12) or [Windows](https://www.advateklights.com/download/928/).
+You should have already downloaded and installed the Advatek Assistant Software for [macOS](https://itunes.apple.com/us/app/advatek-assistant/id990140692?ls=1&mt=12) or [Windows](https://www.advateklights.com/download/928/).
 
 <img 
 src="{{site.baseurl}}/assets/advatek_search.png" 
