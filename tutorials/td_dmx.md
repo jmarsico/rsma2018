@@ -4,7 +4,7 @@ title: "TouchDesigner, Pixelmapping + DMX"
 ---
 
 
-> Download the [td_pixelmapper.toe](https://drive.google.com/open?id=1S5zl5uwxU_jjYJTudMX80cOR2JxKddac) file from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive. 
+> Download the [td_pixelmapper.toe](https://drive.google.com/open?id=1Wnb-IWbTXGHitYjDsAZwrrNh6s8-pMrW) file from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive. 
 
 > Download the [pixelMapper.tox](https://drive.google.com/open?id=1KJCrY-0_17tAk82lKiwXTHT0AgbnvB5c) component from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive.
 
@@ -114,9 +114,86 @@ If you want to get a deeper understanding of the PixLite Controller, have a look
 
 ### Physical Setup
 
-**Parts**:
+#### Parts
 1. Variable voltage power supply
 2. PixLite controller
 3. Ethernet cable
 4. LED strand
+5. Two small screwdrivers
+6. male/male jumper cables
 
+
+<img 
+src="{{site.baseurl}}/assets/td_pixlite_LED_diagram.png" 
+style="max-width: 600px;" 
+/>
+
+**Connections**
+1. Set the power supply to 5 volts
+2. Connect the power supply to the PixLite 
+3. Use jumpers to connect the female end of the LED strand to `OP1` of the PixLite
+  - Red = +
+  - Blue = GND
+  - Whie = Dat
+4. Connect the PixLite to your computer via an Ethernet cable
+
+
+#### Network Setup
+
+**macOS** 
+1. Open your network preferences.
+2. Make sure your ethernet is connected
+3. Turn off wifi
+4. Select the appropriate network adaptor (will say something about ethernet)
+5. Set "configure IPv4" to "manually"
+6. Set your IP address to 192.168.0.10
+7. Set your subnet mask to 255.255.255.0
+
+<img 
+src="{{site.baseurl}}/assets/network_setup.png" 
+style="max-width: 600px;" 
+/>
+
+
+**Windows**
+1. Open your network preferences
+2. Set you IP address to 192.168.0.10
+3. Set your subnetmask to 255.255.255.0
+4. Turn off wifi
+
+<img 
+src="{{site.baseurl}}/assets/network_setup_windows.png" 
+style="max-width: 600px;" 
+/>
+
+#### PixLite Setup
+You should have already downloaded and installed the PixLite Assistant Software for [macOS](https://itunes.apple.com/us/app/advatek-assistant/id990140692?ls=1&mt=12) or [Windows](https://www.advateklights.com/download/928/).
+
+<img 
+src="{{site.baseurl}}/assets/advatek_search.png" 
+style="max-width: 600px;" 
+/>
+
+1. Open the "Advatek Assistant" software.
+2. Change the "Select Adapter" to 192.168.0.10
+3. Click the "Search" button (make sure the green "power" light on the PixLite is solid)
+4. You should see the PixLite 4 unit become visible. Double click it.
+5. Go to the "LEDs" tab in the popup and change the "Pixel IC" to "WS2811"
+
+<img 
+src="{{site.baseurl}}/assets/advatek_LED_select.png" 
+style="max-width: 600px;" 
+/>
+
+6. Go to the "control" tab and make sure the Universe is `1`, Start Channel is `1` and Pixels Per Output is `50`
+7. Click the "OK" button. This will restart the PixLite unit.
+
+<img 
+src="{{site.baseurl}}/assets/advatek_universe.png" 
+style="max-width: 600px;" 
+/>
+
+8. Allow the PixLite to fully reboot. (green light will stop blinking).
+9. Research for the unit and select it.
+10. Go to the "test" tab, change the "Set Test" menu to "Set Color" and click "Set"
+11. Move the color picker around and you should see all of the LEDs change accordingly.

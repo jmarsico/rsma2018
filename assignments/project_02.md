@@ -10,7 +10,7 @@ style="max-width: 600px;"
 
 #### Due: Monday October 8, 6:30pm before class. No late work.
 
-### Submit to: Groups submit one post to [RSMA 2018: Project 02](http://ideate.xsead.cmu.edu/gallery/pools/project-02-pit-light-installation/) and each student submits a link to that post on [Canvas Project 02](https://canvas.cmu.edu/courses/6049/assignments/100773), along with a few sentences describing their role and contributions in the group project.
+#### Submit to: Groups submit one post to [RSMA 2018: Project 02](http://ideate.xsead.cmu.edu/gallery/pools/project-02-pit-light-installation/) and each student submits a link to that post on [Canvas Project 02](https://canvas.cmu.edu/courses/6049/assignments/100773), along with a few sentences describing their role and contributions in the group project.
 
 # Introduction
 
@@ -43,5 +43,3 @@ Groups must create a working model of their design. The model can be of low fide
 - Photographs of the model with either:
   - A: A black backdrop
   - B: composited into a photograph of the airport atrium
-
-
