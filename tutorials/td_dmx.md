@@ -197,3 +197,7 @@ style="max-width: 600px;"
 9. Research for the unit and select it.
 10. Go to the "test" tab, change the "Set Test" menu to "Set Color" and click "Set"
 11. Move the color picker around and you should see all of the LEDs change accordingly.
+
+
+#### TouchDesigner Again
+After communication with the PixLite unit is established and confirmed through the Advatek Assistant, go back to TouchDesigner and set the "Active" parameter of the pixelMapper to "ON"
