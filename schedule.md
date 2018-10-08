@@ -78,7 +78,7 @@ title: Schedule
 | [Precedent Review - Vocabulary]({{site/baseurl}}/exercises/precedent_review/) | [TouchDesigner + Projection Mapping]({{site.baseurl}}/tutorials/td_projectionMapping/) |
 
 ##### Assignments Given
-- Precedent Research #2 Active Nature - [Precedent Research](../assignments/precedent)  Due Sept 17
+- Precedent Research #2 Active Nature - ({{site/baseurl}}/deliverables/precedent/)  Due Sept 17
 - Project 1 - [Data Garden]({{site.baseurl}}/assignments/project_01/) Due Sep 24
 - Material Study - Bring a novel material or surface for projection. Due Sep 12
 
@@ -168,8 +168,8 @@ title: Schedule
 
 
 ##### Assignments Given
-- [Project 3]({{site.baseurl}}/assignments/project_03/) - Power Usage - Due Oct 22
-- Precedent Research #4 - [Precedent Research](../assignments/precedent) - Due Oct 15
+- [Project 3]({{site.baseurl}}/assignments/project_03/) - Data Visualization - Due Oct 22
+- Precedent Research #4 Peripheral Display - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 15
 
 ##### Assignments Due
 - [Project 2]({{site/baseurl}}/assignments/project_02/) - Pittsburgh International Airport - Due Oct 8
@@ -187,7 +187,7 @@ title: Schedule
 
 
 ##### Assignments Due
-- Precedent Research #4 - [Precedent Research](../assignments/precedent) - Due Oct 15
+- Precedent Research #4 - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 15
 
 
 ##### Assignments Given
@@ -207,7 +207,7 @@ title: Schedule
 
 ##### Assignments Given
 - [Project 4]({{site.baseurl}}/assignments/project_04/) - Meditative Space - Due Nov 5
-- Precedent Research #5 - [Precedent Research](../assignments/precedent) - Due Oct 29
+- Precedent Research #5 - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 29
   
 
 ##### Assignments Due
@@ -225,7 +225,7 @@ title: Schedule
 
 
 ##### Assignments Due
-- Precedent Research #5 - [Precedent Research](../assignments/precedent) - Due Oct 29
+- Precedent Research #5 - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 29
 
 
 ##### Assignments Given
@@ -247,7 +247,7 @@ title: Schedule
 
 
 ##### Assignments Given
-- Precedent Research #6 - [Precedent Research](../assignments/precedent) - Due Nov 12
+- Precedent Research #6 - ({{site/baseurl}}/deliverables/precedent/) - Due Nov 12
 
 
 
