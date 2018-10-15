@@ -179,8 +179,25 @@ title: Schedule
 
 ### Week 8: Low Resolution Data Visualization
 
+| Monday Oct 15                                                  | Wednesday Oct 17                                                         |
+| :------------------------------------------------------------- | :----------------------------------------------------------------------- |
+|   Intro to [Project 3]({{site.baseurl}}/assignments/project_03/)                                         | [Touchdesigner and Data Acquisition]({{site.baseurl}}/tutorials/td_api/) |
+| |                                                                          |
 
-| Monday Oct 15                                                  | Wednesday Oct 17                                               |
+
+##### Assignments Given
+- [Project 3]({{site.baseurl}}/assignments/project_03/) - Data Visualization - Due Oct 22
+- Precedent Research #4 Peripheral Display - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 15
+
+##### Assignments Due
+- [Project 2]({{site/baseurl}}/assignments/project_02/) - Pittsburgh International Airport - Due Oct 8
+
+<a name="week9"></a>
+
+### Week 9: Low Resolution Data Visualization
+
+
+| Monday Oct 22                                                  | Wednesday Oct 24                                               |
 | :------------------------------------------------------------- | :------------------------------------------------------------- |
 | Work Day [Project 3]({{site.baseurl}}/assignments/project_03/) | Work Day [Project 3]({{site.baseurl}}/assignments/project_03/) |
 | Precedent #4 Review                                            |                                                                |

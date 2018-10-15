@@ -12,13 +12,13 @@ title: "Project 3: Campus Power Usage"
 
 # Introduction
 
-Facilities Management Services (FMS) at Carnegie Mellon University has released an RFP for an artful way to communicate current energy usage to the campus community. The goal of the project is based on the idea that if community members are aware of their power usage, especially during high-load seasons (summer, finals, etc), they will be more concious of their decisions to conserve energy.
+Facilities Management Services (FMS) at Carnegie Mellon University has released an RFP for an artful, peripheral way to communicate current energy usage to the campus community. The goal of the project is based on the idea that if community members are aware of their power usage, especially during high-load seasons (summer, finals, etc), they will be more concious of their decisions to conserve energy.
 
 The FMS RFP states that they would like a single design that can be mounted anywhere on campus to display the specific energy usage for that building/floor/wing. Design teams should prototype a single unit of this design, keeping in mind that the unit must be mountable for a large range of locations (hallways, computer labs, outside, lounges).
 
 # Design Requirements
 
-- Create a prototype for a single display unit that can communicate energy usage. 
+- Create a prototype for a single peripheral display unit that can communicate energy usage. 
 - The goal of the prototype is to encourage the campus community to be mindful of their energy choices. This may mean displaying real-time energy usage, or showing a history of energy usage compared to current.
 - Design and fabricate the prototype using any of the display technologies we've covered thus far in class (or new techniques that interest you).
 - Integrate real API data (if available) to drive the display.
