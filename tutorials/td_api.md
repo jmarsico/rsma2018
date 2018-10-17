@@ -13,7 +13,31 @@ style="max-width: 600px;"
 
 ## What is an API?
 
+<img 
+src="https://blog.restcase.com/content/images/2016/11/api-collaboration.png" 
+style="max-width: 600px;" 
+/>
 
+
+`Application Programming Interface`. In it's most basic form, an API is a way for different programs or different parts of a program to share information or functionality.
+
+In terms of the WEB, people often use the term to talk about how one application or website can get data from another. 
+
+We can often access another website's data through a formatted URL. Each website is has a different way to correctly format a URL to access its information. The rules for formatting a `request` is spelled out in that API's documentation.
+
+For example, the sample `endpoint` that we'll be using for this tutorial is `http://67.205.143.120/campusEnergy?building=porter`. In this case, the request URI consists of the IP address of the website, description of the data we are trying to fetch, and a dynamic `query` that allows us to choose what information we are requesting.
+
+```
+{
+    "building":"porter",
+    "kWh":10,
+    "kWhPercentAvg":125,
+    "gph":1100,
+    "gphPercentAvg":178
+}
+```
+
+The above response is formatted in `JSON`. JSON has become the standard format for API responses. The basic idea of JSON is that each entry is defined by a `key` and `value`. In this case, "building" is the key and "porter" is the values can be in the form of string, integer or float.
 
 ## TouchDesigner + APIs
 TD's `web` DAT allows us to send `GET` requests to any website and store the response in a text DAT. 
