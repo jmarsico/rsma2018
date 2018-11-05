@@ -255,7 +255,7 @@ title: Schedule
 
 | Monday Nov 5                                                          | Wednesday Nov 7               |
 | :-------------------------------------------------------------------- | :---------------------------- |
-|                                                      | Final Project One-Liners Due |
+|                                                      | **SITE VISIT** Final Project One-Liners Due |
 | Intro to [Final Project]({{site.baseurl}}/assignments/final_project/) |       Site Visit 3577 Bigelow Blvd                        |
 
 ##### Assignments Due

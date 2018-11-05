@@ -4,9 +4,12 @@ title: "Final Project: Scale Up"
 ---
 
 
+#SITE VISIT - WEDNESDAY NOVEMBER 7
+Location: 3577 Bigelow Blvd
 
 # Dates 
 
+- Monday Nov 12: Precedent Research - Industrial Spaces
 - Wednesday Nov 7: One-Liners Due in Class
 - Wednesday Nov 14: Design Presentation and Post (submit to [Gallery](http://ideate.xsead.cmu.edu/gallery/pools/final-project-design-presentation/) + [Canvas](https://canvas.cmu.edu/courses/6049/assignments/119220))
 - Wendesday Nov 28: Prototype Presentation
