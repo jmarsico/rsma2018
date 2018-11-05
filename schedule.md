@@ -15,12 +15,12 @@ title: Schedule
 | 8 (Oct 15)       | __[Low Resolution Data Visualization](#week8)__                    | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
 | 9 (Oct 22)       | __[Meditative and Sacred Spaces](#week9)__                         | [Project 4 - Meditative Space]({{site.baseurl}}/assignments/project_04/)   |
 | 10 (Oct 29)      | __[Meditative and Sacred Spaces](#week10)__                        | [Project 4 - Meditative Space]({{site.baseurl}}/assignments/project_04/)   |
-| 11 (Nov 5)       | __[Final Project](#week11)__                                       | Final Project - TBD                                                        |
-| 12 (Nov 12)      | __[Final Project](#week12)__                                       | Final Project - TBD                                                        |
-| 13 (Nov 19)      | __[Final Project](#week13)__                                       | Final Project - TBD                                                        |
-| 14 (Nov 26)      | __[Final Project](#week14)__                                       | Final Project - TBD                                                        |
-| 15 (Dec 3)       | __[Final Project](#week15)__                                       | Final Project - TBD                                                        |
-| 16 (Dec 10)      | __[Final Project](#week16)__                                       | Final Project - TBD                                                        |
+| 11 (Nov 5)       | __[Final Project](#week11)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
+| 12 (Nov 12)      | __[Final Project](#week12)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
+| 13 (Nov 19)      | __[Final Project](#week13)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
+| 14 (Nov 26)      | __[Final Project](#week14)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
+| 15 (Dec 3)       | __[Final Project](#week15)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
+| 16 (Dec 10)      | __[Final Project](#week16)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
 
 
 
@@ -256,16 +256,16 @@ title: Schedule
 
 | Monday Nov 5                                                          | Wednesday Nov 7               |
 | :-------------------------------------------------------------------- | :---------------------------- |
-| Review Project 4                                                      | Final Project Ideate Exercise |
-| Intro to [Final Project]({{site.baseurl}}/assignments/final-project/) |                               |
+| Review Project 4                                                      | Final Project One-Liners Due |
+| Intro to [Final Project]({{site.baseurl}}/assignments/final_project/) |       Site Visit 3577 Bigelow Blvd                        |
 
 ##### Assignments Due
-- [Project 4]({{site.baseurl}}/assignments/project_04/) - Meditative Space - Due Nov 5
+- Final Project One-Liner Google Slides
 
 
 ##### Assignments Given
-- Precedent Research #6 - ({{site/baseurl}}/deliverables/precedent/) - Due Nov 12
-
+- Precedent Research #4 - ({{site/baseurl}}/deliverables/precedent/) - Due Nov 12
+- [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/) - Due Nov 14
 
 
 
@@ -276,11 +276,11 @@ title: Schedule
 
 | Monday Nov 12                | Wednesday Nov 14 |
 | :--------------------------- | :--------------- |
-| Review Precedent Research #6 |                  |
+| Review Precedent Research #6 | [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/)                 |
 
 
 ##### Assignments Due
-
+- [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/) - Due Nov 14
 
 
 ##### Assignments Given
@@ -297,7 +297,7 @@ title: Schedule
 
 | Monday Nov 19 | Wednesday Nov 21 |
 | :------------ | :--------------- |
-|               |                  |
+| Final Project Work              | Final Project Work                 |
 
 ##### Assignments Due
 
@@ -315,11 +315,11 @@ title: Schedule
 
 | Monday Nov 26 | Wednesday Nov 28 |
 | :------------ | :--------------- |
-|               |                  |
+| Final Project Work              | Final Project Work                 |
 
 
 ##### Assignments Due
-
+- [Final Project - Working Prototype Demo]({{site.baseurl}}/assignments/final_project/) - Due Nov 28
 
 
 ##### Assignments Given
@@ -335,7 +335,7 @@ title: Schedule
 
 | Monday Dec 3 | Wednesday Dec 5 |
 | :----------- | :-------------- |
-|              |                 |
+| Final Project Work              | Final Project Work                 |
 
 
 
@@ -344,6 +344,9 @@ title: Schedule
 <a name="week16"></a>
 
 ### Week 16: Final Showcase
-| Monday Dec 10          | Wednesday Dec 12 |
+| Monday Dec 10          | Friday Dec 14 |
 | :--------------------- | :--------------- |
-| Final Project Showcase |                  |
+| Final Project Showcase + Party |    Final Project Documentation              |
+
+
+
