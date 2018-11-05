@@ -219,8 +219,8 @@ title: Schedule
 
 | Monday Oct 22                                                                     | Wednesday Oct 24                                                |
 | :-------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
-| Project 3 Review                                                                  | [Touchdesigner and Sound]({{site.baseurl}}/tutorials/td_sound/) |
-| Intro to [Project 4]({{site.baseurl}}/assignments/project_04/) - Meditative Space |                                                                 |
+| Project 3 Review                                                                  |  |
+|  |                                                                 |
 
 ##### Assignments Given
 - [Project 4]({{site.baseurl}}/assignments/project_04/) - Meditative Space - Due Nov 5
@@ -236,13 +236,12 @@ title: Schedule
 
 
 | Monday Oct 29                                                  | Wednesday Oct 31                                               |
-| :------------------------------------------------------------- | :------------------------------------------------------------- |
-| Review Precedent #5                                            | Work Day [Project 4]({{site.baseurl}}/assignments/project_04/) |
-| Work Day [Project 4]({{site.baseurl}}/assignments/project_04/) |                                                                |
+| :------------------- | :------------------------------- |
+|   | |
+|  |                                                                |
 
 
 ##### Assignments Due
-- Precedent Research #5 - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 29
 
 
 ##### Assignments Given
@@ -256,7 +255,7 @@ title: Schedule
 
 | Monday Nov 5                                                          | Wednesday Nov 7               |
 | :-------------------------------------------------------------------- | :---------------------------- |
-| Review Project 4                                                      | Final Project One-Liners Due |
+|                                                      | Final Project One-Liners Due |
 | Intro to [Final Project]({{site.baseurl}}/assignments/final_project/) |       Site Visit 3577 Bigelow Blvd                        |
 
 ##### Assignments Due
@@ -276,7 +275,7 @@ title: Schedule
 
 | Monday Nov 12                | Wednesday Nov 14 |
 | :--------------------------- | :--------------- |
-| Review Precedent Research #6 | [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/)                 |
+| Review Precedent Research #4 | [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/)                 |
 
 
 ##### Assignments Due
@@ -297,7 +296,7 @@ title: Schedule
 
 | Monday Nov 19 | Wednesday Nov 21 |
 | :------------ | :--------------- |
-| Final Project Work              | Final Project Work                 |
+| [Touchdesigner and Sound]({{site.baseurl}}/tutorials/td_sound/)              | Final Project Work                 |
 
 ##### Assignments Due
 
