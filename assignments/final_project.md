@@ -22,6 +22,13 @@ Over the past 10 weeks we have learned how to work with several types of scalabl
 The primary requirement for the final project is that groups think big and make the most out of the site. Rather than imagine a particular client or proposal, groups will use the final project site as a gallery space to create a project of their choosing. Similar to previous projects, installations must consider the existing architecture and be site-specific. Works do not **need** to be interactive, but must utilize some form of input data. That could be a static dataset, an image collection, a live API, sensor data, audio or video input, etc.
 
 # Site - 3577 Bigelow Blvd
+Location: 3577 Bigelow Blvd 15213
+
+<img
+src="{{site.baseurl}}/assets/3577_floor_plan.png" 
+style="max-width: 600px;" 
+/>
+
 
 <img
 src="{{site.baseurl}}/assets/3577-Space.jpg" 
